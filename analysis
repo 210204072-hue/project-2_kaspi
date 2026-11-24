@@ -1,0 +1,96 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": [
+        "import pandas as pd\n",
+        "import numpy as np\n",
+        "from scipy import stats\n",
+        "\n",
+        "np.random.seed(42)\n",
+        "n = 1200\n",
+        "\n",
+        "dates = pd.date_range('2026-01-01', '2026-06-30', freq='3h')[:n]\n",
+        "categories = np.random.choice(['Electronics', 'Clothing', 'Home & Garden', 'Cosmetics', 'Auto Parts'], n)\n",
+        "cities = np.random.choice(['Almaty', 'Astana', 'Shymkent', 'Karaganda', 'Aktobe'], n)\n",
+        "delivery_type = np.random.choice(['Express Courier', 'Postomat'], n, p=[0.45, 0.55])\n",
+        "order_value_kzt = np.random.randint(5000, 85000, n)\n",
+        "weight_kg = np.round(np.random.uniform(0.3, 12.0, n), 1)\n",
+        "\n",
+        "base_fee = np.where(delivery_type == 'Express Courier', 1900, 950)\n",
+        "weight_fee = np.where(weight_kg > 5.0, 850, 200)\n",
+        "delivery_cost_kzt = base_fee + weight_fee + np.random.randint(-100, 150, n)\n",
+        "\n",
+        "gross_profit = order_value_kzt * 0.35 - delivery_cost_kzt\n",
+        "profit_margin_pct = np.round((gross_profit / order_value_kzt) * 100, 1)\n",
+        "is_unprofitable = np.where(profit_margin_pct < 5.0, 'Yes', 'No')\n",
+        "\n",
+        "df_clean = pd.DataFrame({\n",
+        "'order_id': [f'KS{10000+i}' for i in range(n)],\n",
+        "'order_date': dates,\n",
+        "'seller_category': categories,\n",
+        "'city': cities,\n",
+        "'delivery_type': delivery_type,\n",
+        "'order_value_kzt': order_value_kzt,\n",
+        "'weight_kg': weight_kg,\n",
+        "'delivery_cost_kzt': delivery_cost_kzt,\n",
+        "'profit_margin_pct': profit_margin_pct,\n",
+        "'is_unprofitable': is_unprofitable\n",
+        "})\n",
+        "\n",
+        "df_raw = pd.concat([df_clean, df_clean.iloc[:15]], ignore_index=True)\n",
+        "df_raw.loc[10:19, 'delivery_cost_kzt'] = np.nan\n",
+        "\n",
+        "df_raw.to_csv('data_raw.csv', index=False)\n",
+        "df_clean.to_csv('data_clean.csv', index=False)\n",
+        "\n",
+        "exp_m = df_clean[df_clean['delivery_type'] == 'Express Courier']['profit_margin_pct']\n",
+        "post_m = df_clean[df_clean['delivery_type'] == 'Postomat']['profit_margin_pct']\n",
+        "t_stat, p_val1 = stats.ttest_ind(exp_m, post_m)\n",
+        "print(f\"Test 1 (Courier vs Postomat): Courier={exp_m.mean():.1f}%, Postomat={post_m.mean():.1f}%, p-value={p_val1:.2e}\")\n",
+        "\n",
+        "weight_group = np.where(df_clean['weight_kg'] > 5.0, 'Heavy (>5kg)', 'Light (<=5kg)')\n",
+        "ct = pd.crosstab(weight_group, df_clean['is_unprofitable'])\n",
+        "chi2, p_val2, _, _ = stats.chi2_contingency(ct)\n",
+        "print(f\"Test 2 (Heavy vs Light): p-value={p_val2:.2e}\")\n",
+        "print(ct)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "1tqmkZmoons8",
+        "outputId": "bbe59354-01f1-4ca3-e45a-dfda477b1d2e"
+      },
+      "execution_count": 2,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Test 1 (Courier vs Postomat): Courier=26.1%, Postomat=29.6%, p-value=3.62e-17\n",
+            "Test 2 (Heavy vs Light): p-value=3.32e-05\n",
+            "is_unprofitable   No  Yes\n",
+            "row_0                    \n",
+            "Heavy (>5kg)     668   29\n",
+            "Light (<=5kg)    502    1\n"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1216 @@
+order_id,order_date,seller_category,city,delivery_type,order_value_kzt,weight_kg,delivery_cost_kzt,profit_margin_pct,is_unprofitable
+KS10000,2026-01-01 00:00:00,Cosmetics,Astana,Postomat,24874,11.3,1923.0,27.3,No
+KS10001,2026-01-01 03:00:00,Auto Parts,Karaganda,Express Courier,55931,4.1,2041.0,31.4,No
+KS10002,2026-01-01 06:00:00,Home & Garden,Shymkent,Postomat,12674,8.0,1740.0,21.3,No
+KS10003,2026-01-01 09:00:00,Auto Parts,Almaty,Express Courier,55516,7.9,2854.0,29.9,No
+KS10004,2026-01-01 12:00:00,Auto Parts,Shymkent,Postomat,65686,3.2,1280.0,33.1,No
+KS10005,2026-01-01 15:00:00,Clothing,Aktobe,Express Courier,74212,7.9,2846.0,31.2,No
+KS10006,2026-01-01 18:00:00,Home & Garden,Karaganda,Postomat,7426,2.8,1171.0,19.2,No
+KS10007,2026-01-01 21:00:00,Home & Garden,Shymkent,Express Courier,73498,1.7,2137.0,32.1,No
+KS10008,2026-01-02 00:00:00,Home & Garden,Astana,Express Courier,34943,8.5,2659.0,27.4,No
+KS10009,2026-01-02 03:00:00,Auto Parts,Aktobe,Express Courier,71395,1.6,2101.0,32.1,No
+KS10010,2026-01-02 06:00:00,Cosmetics,Aktobe,Express Courier,49816,12.0,,29.2,No
+KS10011,2026-01-02 09:00:00,Home & Garden,Shymkent,Postomat,9138,2.4,,21.5,No
+KS10012,2026-01-02 12:00:00,Auto Parts,Shymkent,Postomat,80945,7.3,,32.7,No
+KS10013,2026-01-02 15:00:00,Clothing,Karaganda,Express Courier,9017,5.1,,3.6,Yes
+KS10014,2026-01-02 18:00:00,Cosmetics,Almaty,Express Courier,15451,1.8,,21.1,No
+KS10015,2026-01-02 21:00:00,Clothing,Shymkent,Postomat,67956,0.6,,33.3,No
+KS10016,2026-01-03 00:00:00,Cosmetics,Shymkent,Postomat,15278,7.6,,22.6,No
+KS10017,2026-01-03 03:00:00,Auto Parts,Astana,Postomat,48764,9.7,,31.3,No
+KS10018,2026-01-03 06:00:00,Electronics,Aktobe,Express Courier,6134,10.2,,-10.0,Yes
+KS10019,2026-01-03 09:00:00,Cosmetics,Almaty,Express Courier,67943,5.9,,30.8,No
+KS10020,2026-01-03 12:00:00,Clothing,Astana,Postomat,59318,9.4,1777.0,32.0,No
+KS10021,2026-01-03 15:00:00,Auto Parts,Karaganda,Express Courier,65128,8.2,2734.0,30.8,No
+KS10022,2026-01-03 18:00:00,Cosmetics,Karaganda,Postomat,26869,8.8,1729.0,28.6,No
+KS10023,2026-01-03 21:00:00,Electronics,Shymkent,Express Courier,10039,6.1,2862.0,6.5,No
+KS10024,2026-01-04 00:00:00,Electronics,Shymkent,Postomat,26281,7.7,1748.0,28.3,No
+KS10025,2026-01-04 03:00:00,Home & Garden,Karaganda,Express Courier,15442,9.7,2658.0,17.8,No
+KS10026,2026-01-04 06:00:00,Home & Garden,Shymkent,Postomat,78788,5.0,1194.0,33.5,No
+KS10027,2026-01-04 09:00:00,Clothing,Almaty,Postomat,32586,9.7,1768.0,29.6,No
+KS10028,2026-01-04 12:00:00,Cosmetics,Shymkent,Postomat,58053,7.2,1757.0,32.0,No
+KS10029,2026-01-04 15:00:00,Cosmetics,Aktobe,Express Courier,55489,2.2,2184.0,31.1,No
+KS10030,2026-01-04 18:00:00,Home & Garden,Shymkent,Postomat,72087,0.6,1111.0,33.5,No
+KS10031,2026-01-04 21:00:00,Cosmetics,Astana,Postomat,17625,4.5,1272.0,27.8,No
+KS10032,2026-01-05 00:00:00,Cosmetics,Almaty,Postomat,39397,6.7,1751.0,30.6,No
+KS10033,2026-01-05 03:00:00,Electronics,Astana,Postomat,63671,10.1,1888.0,32.0,No
+KS10034,2026-01-05 06:00:00,Home & Garden,Astana,Postomat,71897,1.8,1089.0,33.5,No
+KS10035,2026-01-05 09:00:00,Auto Parts,Aktobe,Postomat,31149,9.7,1865.0,29.0,No
+KS10036,2026-01-05 12:00:00,Home & Garden,Almaty,Express Courier,65030,10.4,2820.0,30.7,No
+KS10037,2026-01-05 15:00:00,Auto Parts,Almaty,Postomat,74906,2.1,1112.0,33.5,No
+KS10038,2026-01-05 18:00:00,Electronics,Almaty,Postomat,10283,10.3,1846.0,17.0,No
+KS10039,2026-01-05 21:00:00,Clothing,Almaty,Express Courier,12610,11.9,2877.0,12.2,No
+KS10040,2026-01-06 00:00:00,Cosmetics,Almaty,Express Courier,48326,8.8,2699.0,29.4,No
+KS10041,2026-01-06 03:00:00,Electronics,Aktobe,Express Courier,19924,9.5,2810.0,20.9,No
+KS10042,2026-01-06 06:00:00,Cosmetics,Shymkent,Postomat,81162,11.9,1840.0,32.7,No
+KS10043,2026-01-06 09:00:00,Clothing,Astana,Postomat,5869,7.4,1777.0,4.7,Yes
+KS10044,2026-01-06 12:00:00,Clothing,Almaty,Postomat,6014,3.9,1297.0,13.4,No
+KS10045,2026-01-06 15:00:00,Electronics,Shymkent,Postomat,15103,10.1,1796.0,23.1,No
+KS10046,2026-01-06 18:00:00,Clothing,Shymkent,Express Courier,38458,7.5,2839.0,27.6,No
+KS10047,2026-01-06 21:00:00,Auto Parts,Astana,Express Courier,28248,7.1,2870.0,24.8,No
+KS10048,2026-01-07 00:00:00,Clothing,Aktobe,Express Courier,48516,3.3,2042.0,30.8,No
+KS10049,2026-01-07 03:00:00,Cosmetics,Karaganda,Express Courier,34061,9.1,2826.0,26.7,No
+KS10050,2026-01-07 06:00:00,Cosmetics,Karaganda,Express Courier,29170,1.3,2035.0,28.0,No
+KS10051,2026-01-07 09:00:00,Cosmetics,Shymkent,Express Courier,13024,11.1,2771.0,13.7,No
+KS10052,2026-01-07 12:00:00,Cosmetics,Astana,Postomat,48803,4.1,1157.0,32.6,No
+KS10053,2026-01-07 15:00:00,Auto Parts,Karaganda,Postomat,24296,1.8,1059.0,30.6,No
+KS10054,2026-01-07 18:00:00,Home & Garden,Shymkent,Postomat,23257,5.5,1794.0,27.3,No
+KS10055,2026-01-07 21:00:00,Electronics,Aktobe,Postomat,17855,0.8,1055.0,29.1,No
+KS10056,2026-01-08 00:00:00,Cosmetics,Karaganda,Postomat,25025,8.3,1756.0,28.0,No
+KS10057,2026-01-08 03:00:00,Clothing,Shymkent,Express Courier,9458,10.9,2778.0,5.6,No
+KS10058,2026-01-08 06:00:00,Cosmetics,Shymkent,Postomat,68610,10.1,1770.0,32.4,No
+KS10059,2026-01-08 09:00:00,Clothing,Almaty,Postomat,75843,1.8,1235.0,33.4,No
+KS10060,2026-01-08 12:00:00,Clothing,Aktobe,Express Courier,54831,1.8,2218.0,31.0,No
+KS10061,2026-01-08 15:00:00,Cosmetics,Almaty,Express Courier,48427,9.8,2670.0,29.5,No
+KS10062,2026-01-08 18:00:00,Auto Parts,Astana,Postomat,43506,11.1,1791.0,30.9,No
+KS10063,2026-01-08 21:00:00,Clothing,Almaty,Express Courier,10668,5.7,2776.0,9.0,No
+KS10064,2026-01-09 00:00:00,Clothing,Almaty,Postomat,52195,6.1,1779.0,31.6,No
+KS10065,2026-01-09 03:00:00,Cosmetics,Karaganda,Postomat,78233,4.0,1105.0,33.6,No
+KS10066,2026-01-09 06:00:00,Clothing,Shymkent,Express Courier,29417,10.8,2887.0,25.2,No
+KS10067,2026-01-09 09:00:00,Clothing,Aktobe,Express Courier,15751,7.8,2864.0,16.8,No
+KS10068,2026-01-09 12:00:00,Cosmetics,Almaty,Express Courier,51218,3.7,2115.0,30.9,No
+KS10069,2026-01-09 15:00:00,Cosmetics,Aktobe,Express Courier,12352,3.8,2147.0,17.6,No
+KS10070,2026-01-09 18:00:00,Electronics,Almaty,Express Courier,84052,10.7,2879.0,31.6,No
+KS10071,2026-01-09 21:00:00,Auto Parts,Astana,Postomat,33927,0.5,1231.0,31.4,No
+KS10072,2026-01-10 00:00:00,Auto Parts,Almaty,Express Courier,46094,4.1,2024.0,30.6,No
+KS10073,2026-01-10 03:00:00,Clothing,Karaganda,Postomat,59122,6.8,1855.0,31.9,No
+KS10074,2026-01-10 06:00:00,Auto Parts,Shymkent,Express Courier,34493,2.0,2004.0,29.2,No
+KS10075,2026-01-10 09:00:00,Clothing,Astana,Postomat,78539,1.4,1169.0,33.5,No
+KS10076,2026-01-10 12:00:00,Electronics,Almaty,Express Courier,36707,9.8,2670.0,27.7,No
+KS10077,2026-01-10 15:00:00,Cosmetics,Aktobe,Express Courier,73814,10.8,2667.0,31.4,No
+KS10078,2026-01-10 18:00:00,Cosmetics,Astana,Postomat,12296,9.9,1874.0,19.8,No
+KS10079,2026-01-10 21:00:00,Cosmetics,Astana,Postomat,30398,10.8,1897.0,28.8,No
+KS10080,2026-01-11 00:00:00,Auto Parts,Almaty,Express Courier,40842,6.8,2706.0,28.4,No
+KS10081,2026-01-11 03:00:00,Electronics,Astana,Postomat,18261,9.8,1792.0,25.2,No
+KS10082,2026-01-11 06:00:00,Auto Parts,Aktobe,Postomat,81709,4.8,1068.0,33.7,No
+KS10083,2026-01-11 09:00:00,Auto Parts,Astana,Postomat,61704,8.1,1827.0,32.0,No
+KS10084,2026-01-11 12:00:00,Electronics,Aktobe,Express Courier,72173,11.9,2746.0,31.2,No
+KS10085,2026-01-11 15:00:00,Electronics,Almaty,Express Courier,36781,2.9,2192.0,29.0,No
+KS10086,2026-01-11 18:00:00,Electronics,Shymkent,Postomat,18652,4.9,1286.0,28.1,No
+KS10087,2026-01-11 21:00:00,Electronics,Astana,Postomat,10103,5.9,1830.0,16.9,No
+KS10088,2026-01-12 00:00:00,Cosmetics,Shymkent,Express Courier,30500,1.9,2169.0,27.9,No
+KS10089,2026-01-12 03:00:00,Home & Garden,Aktobe,Postomat,40529,1.2,1070.0,32.4,No
+KS10090,2026-01-12 06:00:00,Home & Garden,Astana,Postomat,23452,10.0,1926.0,26.8,No
+KS10091,2026-01-12 09:00:00,Electronics,Karaganda,Express Courier,54393,11.7,2882.0,29.7,No
+KS10092,2026-01-12 12:00:00,Home & Garden,Shymkent,Postomat,36174,5.0,1089.0,32.0,No
+KS10093,2026-01-12 15:00:00,Home & Garden,Astana,Express Courier,69450,1.3,2066.0,32.0,No
+KS10094,2026-01-12 18:00:00,Electronics,Shymkent,Postomat,40436,1.1,1202.0,32.0,No
+KS10095,2026-01-12 21:00:00,Home & Garden,Astana,Postomat,52406,10.7,1826.0,31.5,No
+KS10096,2026-01-13 00:00:00,Auto Parts,Almaty,Postomat,68059,5.7,1936.0,32.2,No
+KS10097,2026-01-13 03:00:00,Clothing,Shymkent,Express Courier,20954,4.0,2229.0,24.4,No
+KS10098,2026-01-13 06:00:00,Clothing,Karaganda,Express Courier,17356,5.9,2886.0,18.4,No
+KS10099,2026-01-13 09:00:00,Electronics,Karaganda,Express Courier,7187,4.0,2054.0,6.4,No
+KS10100,2026-01-13 12:00:00,Cosmetics,Aktobe,Express Courier,82243,6.0,2861.0,31.5,No
+KS10101,2026-01-13 15:00:00,Electronics,Astana,Express Courier,40098,10.4,2829.0,27.9,No
+KS10102,2026-01-13 18:00:00,Cosmetics,Shymkent,Postomat,26225,7.2,1871.0,27.9,No
+KS10103,2026-01-13 21:00:00,Clothing,Aktobe,Express Courier,8606,8.4,2758.0,3.0,Yes
+KS10104,2026-01-14 00:00:00,Electronics,Shymkent,Express Courier,62620,4.6,2097.0,31.7,No
+KS10105,2026-01-14 03:00:00,Auto Parts,Astana,Postomat,37828,8.9,1912.0,29.9,No
+KS10106,2026-01-14 06:00:00,Home & Garden,Karaganda,Express Courier,31489,8.1,2833.0,26.0,No
+KS10107,2026-01-14 09:00:00,Cosmetics,Almaty,Postomat,19387,1.7,1232.0,28.6,No
+KS10108,2026-01-14 12:00:00,Home & Garden,Karaganda,Express Courier,74463,7.0,2761.0,31.3,No
+KS10109,2026-01-14 15:00:00,Home & Garden,Aktobe,Postomat,76832,3.3,1264.0,33.4,No
+KS10110,2026-01-14 18:00:00,Electronics,Almaty,Express Courier,7591,9.7,2847.0,-2.5,Yes
+KS10111,2026-01-14 21:00:00,Home & Garden,Aktobe,Express Courier,53516,5.3,2764.0,29.8,No
+KS10112,2026-01-15 00:00:00,Auto Parts,Astana,Postomat,67061,11.9,1816.0,32.3,No
+KS10113,2026-01-15 03:00:00,Home & Garden,Almaty,Express Courier,71736,1.4,2204.0,31.9,No
+KS10114,2026-01-15 06:00:00,Electronics,Aktobe,Postomat,66753,9.4,1940.0,32.1,No
+KS10115,2026-01-15 09:00:00,Auto Parts,Astana,Express Courier,16087,8.2,2736.0,18.0,No
+KS10116,2026-01-15 12:00:00,Clothing,Karaganda,Express Courier,35816,9.3,2850.0,27.0,No
+KS10117,2026-01-15 15:00:00,Home & Garden,Astana,Postomat,28408,3.9,1130.0,31.0,No
+KS10118,2026-01-15 18:00:00,Electronics,Shymkent,Express Courier,5136,6.1,2715.0,-17.9,Yes
+KS10119,2026-01-15 21:00:00,Clothing,Astana,Postomat,22413,9.6,1718.0,27.3,No
+KS10120,2026-01-16 00:00:00,Clothing,Astana,Postomat,64500,3.0,1260.0,33.0,No
+KS10121,2026-01-16 03:00:00,Cosmetics,Shymkent,Postomat,61358,2.9,1297.0,32.9,No
+KS10122,2026-01-16 06:00:00,Auto Parts,Aktobe,Postomat,71197,6.7,1834.0,32.4,No
+KS10123,2026-01-16 09:00:00,Home & Garden,Aktobe,Express Courier,37854,6.4,2767.0,27.7,No
+KS10124,2026-01-16 12:00:00,Electronics,Astana,Express Courier,81240,3.6,2190.0,32.3,No
+KS10125,2026-01-16 15:00:00,Cosmetics,Shymkent,Express Courier,21322,3.8,2041.0,25.4,No
+KS10126,2026-01-16 18:00:00,Auto Parts,Shymkent,Postomat,11968,3.6,1091.0,25.9,No
+KS10127,2026-01-16 21:00:00,Cosmetics,Karaganda,Postomat,32518,9.3,1758.0,29.6,No
+KS10128,2026-01-17 00:00:00,Auto Parts,Aktobe,Express Courier,56925,7.9,2669.0,30.3,No
+KS10129,2026-01-17 03:00:00,Auto Parts,Almaty,Postomat,64848,10.0,1772.0,32.3,No
+KS10130,2026-01-17 06:00:00,Home & Garden,Aktobe,Express Courier,6700,11.7,2666.0,-4.8,Yes
+KS10131,2026-01-17 09:00:00,Auto Parts,Aktobe,Postomat,28199,5.8,1726.0,28.9,No
+KS10132,2026-01-17 12:00:00,Cosmetics,Karaganda,Postomat,49589,1.1,1224.0,32.5,No
+KS10133,2026-01-17 15:00:00,Auto Parts,Almaty,Postomat,37115,0.9,1051.0,32.2,No
+KS10134,2026-01-17 18:00:00,Home & Garden,Karaganda,Postomat,66934,3.8,1112.0,33.3,No
+KS10135,2026-01-17 21:00:00,Home & Garden,Almaty,Express Courier,59316,11.2,2711.0,30.4,No
+KS10136,2026-01-18 00:00:00,Cosmetics,Astana,Express Courier,10520,6.4,2749.0,8.9,No
+KS10137,2026-01-18 03:00:00,Clothing,Almaty,Express Courier,41455,3.5,2018.0,30.1,No
+KS10138,2026-01-18 06:00:00,Clothing,Karaganda,Express Courier,46605,5.0,2016.0,30.7,No
+KS10139,2026-01-18 09:00:00,Auto Parts,Aktobe,Express Courier,19955,7.3,2718.0,21.4,No
+KS10140,2026-01-18 12:00:00,Electronics,Almaty,Postomat,49049,7.9,1866.0,31.2,No
+KS10141,2026-01-18 15:00:00,Auto Parts,Almaty,Postomat,18917,2.1,1259.0,28.3,No
+KS10142,2026-01-18 18:00:00,Cosmetics,Shymkent,Postomat,75293,11.7,1816.0,32.6,No
+KS10143,2026-01-18 21:00:00,Cosmetics,Aktobe,Express Courier,83581,6.7,2895.0,31.5,No
+KS10144,2026-01-19 00:00:00,Cosmetics,Astana,Postomat,69925,1.9,1248.0,33.2,No
+KS10145,2026-01-19 03:00:00,Cosmetics,Karaganda,Postomat,75269,10.8,1780.0,32.6,No
+KS10146,2026-01-19 06:00:00,Cosmetics,Astana,Express Courier,35954,1.2,2038.0,29.3,No
+KS10147,2026-01-19 09:00:00,Home & Garden,Aktobe,Postomat,77617,10.9,1735.0,32.8,No
+KS10148,2026-01-19 12:00:00,Clothing,Almaty,Postomat,46458,12.0,1867.0,31.0,No
+KS10149,2026-01-19 15:00:00,Cosmetics,Almaty,Express Courier,26113,8.5,2822.0,24.2,No
+KS10150,2026-01-19 18:00:00,Electronics,Aktobe,Postomat,48939,9.3,1831.0,31.3,No
+KS10151,2026-01-19 21:00:00,Electronics,Almaty,Postomat,34345,4.2,1279.0,31.3,No
+KS10152,2026-01-20 00:00:00,Electronics,Almaty,Express Courier,51313,11.3,2802.0,29.5,No
+KS10153,2026-01-20 03:00:00,Electronics,Almaty,Postomat,74166,6.5,1896.0,32.4,No
+KS10154,2026-01-20 06:00:00,Home & Garden,Karaganda,Postomat,52861,8.9,1857.0,31.5,No
+KS10155,2026-01-20 09:00:00,Electronics,Karaganda,Postomat,54298,11.1,1903.0,31.5,No
+KS10156,2026-01-20 12:00:00,Cosmetics,Shymkent,Postomat,52221,11.7,1895.0,31.4,No
+KS10157,2026-01-20 15:00:00,Auto Parts,Astana,Express Courier,49942,10.0,2865.0,29.3,No
+KS10158,2026-01-20 18:00:00,Electronics,Aktobe,Postomat,8453,3.8,1078.0,22.2,No
+KS10159,2026-01-20 21:00:00,Home & Garden,Aktobe,Postomat,59935,11.6,1900.0,31.8,No
+KS10160,2026-01-21 00:00:00,Home & Garden,Aktobe,Express Courier,48370,7.6,2845.0,29.1,No
+KS10161,2026-01-21 03:00:00,Electronics,Shymkent,Postomat,13328,11.2,1750.0,21.9,No
+KS10162,2026-01-21 06:00:00,Auto Parts,Karaganda,Postomat,20534,8.2,1851.0,26.0,No
+KS10163,2026-01-21 09:00:00,Electronics,Shymkent,Postomat,41320,3.9,1063.0,32.4,No
+KS10164,2026-01-21 12:00:00,Home & Garden,Aktobe,Express Courier,54170,4.6,2068.0,31.2,No
+KS10165,2026-01-21 15:00:00,Clothing,Astana,Postomat,13640,6.7,1845.0,21.5,No
+KS10166,2026-01-21 18:00:00,Cosmetics,Almaty,Express Courier,35049,9.5,2819.0,27.0,No
+KS10167,2026-01-21 21:00:00,Home & Garden,Karaganda,Express Courier,10618,4.0,2056.0,15.6,No
+KS10168,2026-01-22 00:00:00,Electronics,Karaganda,Express Courier,61053,7.1,2860.0,30.3,No
+KS10169,2026-01-22 03:00:00,Cosmetics,Shymkent,Express Courier,6920,4.3,2011.0,5.9,No
+KS10170,2026-01-22 06:00:00,Electronics,Karaganda,Postomat,48937,9.8,1909.0,31.1,No
+KS10171,2026-01-22 09:00:00,Electronics,Aktobe,Postomat,74724,5.8,1716.0,32.7,No
+KS10172,2026-01-22 12:00:00,Clothing,Aktobe,Express Courier,17207,1.2,2029.0,23.2,No
+KS10173,2026-01-22 15:00:00,Cosmetics,Shymkent,Postomat,70774,2.2,1137.0,33.4,No
+KS10174,2026-01-22 18:00:00,Cosmetics,Aktobe,Postomat,37972,1.0,1252.0,31.7,No
+KS10175,2026-01-22 21:00:00,Clothing,Astana,Postomat,15799,6.1,1798.0,23.6,No
+KS10176,2026-01-23 00:00:00,Home & Garden,Shymkent,Express Courier,76088,1.5,2022.0,32.3,No
+KS10177,2026-01-23 03:00:00,Electronics,Astana,Postomat,33916,1.6,1258.0,31.3,No
+KS10178,2026-01-23 06:00:00,Auto Parts,Almaty,Postomat,75463,11.3,1828.0,32.6,No
+KS10179,2026-01-23 09:00:00,Electronics,Astana,Postomat,81700,10.5,1778.0,32.8,No
+KS10180,2026-01-23 12:00:00,Electronics,Almaty,Express Courier,42158,5.6,2681.0,28.6,No
+KS10181,2026-01-23 15:00:00,Home & Garden,Almaty,Express Courier,76696,11.8,2658.0,31.5,No
+KS10182,2026-01-23 18:00:00,Electronics,Astana,Postomat,66510,0.3,1064.0,33.4,No
+KS10183,2026-01-23 21:00:00,Clothing,Shymkent,Postomat,63692,7.5,1855.0,32.1,No
+KS10184,2026-01-24 00:00:00,Clothing,Aktobe,Postomat,66744,7.5,1851.0,32.2,No
+KS10185,2026-01-24 03:00:00,Cosmetics,Aktobe,Postomat,20810,5.7,1887.0,25.9,No
+KS10186,2026-01-24 06:00:00,Auto Parts,Almaty,Express Courier,10126,4.9,2162.0,13.6,No
+KS10187,2026-01-24 09:00:00,Electronics,Almaty,Postomat,35009,5.6,1913.0,29.5,No
+KS10188,2026-01-24 12:00:00,Electronics,Shymkent,Postomat,5192,5.2,1726.0,1.8,Yes
+KS10189,2026-01-24 15:00:00,Home & Garden,Karaganda,Express Courier,41413,8.8,2860.0,28.1,No
+KS10190,2026-01-24 18:00:00,Clothing,Astana,Postomat,17816,1.9,1158.0,28.5,No
+KS10191,2026-01-24 21:00:00,Auto Parts,Almaty,Postomat,44082,2.6,1125.0,32.4,No
+KS10192,2026-01-25 00:00:00,Cosmetics,Aktobe,Express Courier,70048,2.4,2147.0,31.9,No
+KS10193,2026-01-25 03:00:00,Clothing,Shymkent,Postomat,55940,3.4,1114.0,33.0,No
+KS10194,2026-01-25 06:00:00,Cosmetics,Astana,Express Courier,37130,6.4,2862.0,27.3,No
+KS10195,2026-01-25 09:00:00,Home & Garden,Shymkent,Postomat,45142,1.6,1226.0,32.3,No
+KS10196,2026-01-25 12:00:00,Home & Garden,Astana,Postomat,41468,10.5,1808.0,30.6,No
+KS10197,2026-01-25 15:00:00,Electronics,Astana,Postomat,35698,3.8,1178.0,31.7,No
+KS10198,2026-01-25 18:00:00,Auto Parts,Almaty,Postomat,15655,2.2,1059.0,28.2,No
+KS10199,2026-01-25 21:00:00,Cosmetics,Shymkent,Express Courier,52897,8.2,2696.0,29.9,No
+KS10200,2026-01-26 00:00:00,Clothing,Shymkent,Postomat,35075,0.7,1172.0,31.7,No
+KS10201,2026-01-26 03:00:00,Home & Garden,Aktobe,Postomat,14359,7.6,1758.0,22.8,No
+KS10202,2026-01-26 06:00:00,Electronics,Aktobe,Express Courier,47056,8.5,2745.0,29.2,No
+KS10203,2026-01-26 09:00:00,Electronics,Almaty,Postomat,56831,2.8,1239.0,32.8,No
+KS10204,2026-01-26 12:00:00,Cosmetics,Almaty,Postomat,64191,0.8,1152.0,33.2,No
+KS10205,2026-01-26 15:00:00,Home & Garden,Karaganda,Express Courier,38272,4.6,2123.0,29.5,No
+KS10206,2026-01-26 18:00:00,Auto Parts,Aktobe,Postomat,19671,1.5,1135.0,29.2,No
+KS10207,2026-01-26 21:00:00,Home & Garden,Astana,Postomat,32048,1.7,1195.0,31.3,No
+KS10208,2026-01-27 00:00:00,Cosmetics,Shymkent,Express Courier,81274,3.3,2111.0,32.4,No
+KS10209,2026-01-27 03:00:00,Cosmetics,Almaty,Postomat,30963,3.8,1223.0,31.1,No
+KS10210,2026-01-27 06:00:00,Home & Garden,Shymkent,Express Courier,48954,6.5,2809.0,29.3,No
+KS10211,2026-01-27 09:00:00,Cosmetics,Shymkent,Express Courier,77309,8.2,2676.0,31.5,No
+KS10212,2026-01-27 12:00:00,Home & Garden,Karaganda,Express Courier,5717,7.2,2869.0,-15.2,Yes
+KS10213,2026-01-27 15:00:00,Clothing,Aktobe,Postomat,16676,2.0,1067.0,28.6,No
+KS10214,2026-01-27 18:00:00,Home & Garden,Almaty,Postomat,9434,2.3,1216.0,22.1,No
+KS10215,2026-01-27 21:00:00,Home & Garden,Shymkent,Express Courier,54810,10.6,2826.0,29.8,No
+KS10216,2026-01-28 00:00:00,Cosmetics,Almaty,Express Courier,9994,6.8,2870.0,6.3,No
+KS10217,2026-01-28 03:00:00,Cosmetics,Astana,Postomat,9234,10.5,1781.0,15.7,No
+KS10218,2026-01-28 06:00:00,Electronics,Karaganda,Express Courier,74300,4.6,2171.0,32.1,No
+KS10219,2026-01-28 09:00:00,Electronics,Astana,Postomat,48949,7.5,1771.0,31.4,No
+KS10220,2026-01-28 12:00:00,Clothing,Almaty,Postomat,42405,6.4,1753.0,30.9,No
+KS10221,2026-01-28 15:00:00,Electronics,Almaty,Postomat,39872,4.0,1272.0,31.8,No
+KS10222,2026-01-28 18:00:00,Home & Garden,Aktobe,Postomat,47215,5.8,1861.0,31.1,No
+KS10223,2026-01-28 21:00:00,Cosmetics,Shymkent,Express Courier,28185,6.2,2720.0,25.3,No
+KS10224,2026-01-29 00:00:00,Electronics,Shymkent,Postomat,48442,2.6,1213.0,32.5,No
+KS10225,2026-01-29 03:00:00,Electronics,Astana,Postomat,56759,4.0,1195.0,32.9,No
+KS10226,2026-01-29 06:00:00,Clothing,Karaganda,Postomat,46153,9.6,1737.0,31.2,No
+KS10227,2026-01-29 09:00:00,Clothing,Shymkent,Express Courier,82535,11.0,2836.0,31.6,No
+KS10228,2026-01-29 12:00:00,Home & Garden,Aktobe,Postomat,7581,4.5,1186.0,19.4,No
+KS10229,2026-01-29 15:00:00,Cosmetics,Astana,Express Courier,56717,3.9,2200.0,31.1,No
+KS10230,2026-01-29 18:00:00,Clothing,Astana,Express Courier,7763,2.6,2237.0,6.2,No
+KS10231,2026-01-29 21:00:00,Electronics,Aktobe,Express Courier,60480,8.2,2849.0,30.3,No
+KS10232,2026-01-30 00:00:00,Cosmetics,Karaganda,Postomat,43759,4.1,1228.0,32.2,No
+KS10233,2026-01-30 03:00:00,Cosmetics,Aktobe,Postomat,81067,11.9,1734.0,32.9,No
+KS10234,2026-01-30 06:00:00,Electronics,Karaganda,Postomat,30307,4.1,1131.0,31.3,No
+KS10235,2026-01-30 09:00:00,Clothing,Aktobe,Postomat,16064,4.9,1182.0,27.6,No
+KS10236,2026-01-30 12:00:00,Electronics,Aktobe,Express Courier,81848,7.4,2791.0,31.6,No
+KS10237,2026-01-30 15:00:00,Cosmetics,Almaty,Postomat,42548,9.7,1919.0,30.5,No
+KS10238,2026-01-30 18:00:00,Auto Parts,Astana,Express Courier,41945,5.8,2807.0,28.3,No
+KS10239,2026-01-30 21:00:00,Auto Parts,Aktobe,Postomat,52937,5.2,1703.0,31.8,No
+KS10240,2026-01-31 00:00:00,Home & Garden,Aktobe,Postomat,11476,11.9,1866.0,18.7,No
+KS10241,2026-01-31 03:00:00,Electronics,Shymkent,Postomat,56756,0.4,1261.0,32.8,No
+KS10242,2026-01-31 06:00:00,Electronics,Astana,Postomat,7382,10.8,1891.0,9.4,No
+KS10243,2026-01-31 09:00:00,Home & Garden,Shymkent,Express Courier,54683,2.0,2152.0,31.1,No
+KS10244,2026-01-31 12:00:00,Home & Garden,Astana,Postomat,50276,9.5,1855.0,31.3,No
+KS10245,2026-01-31 15:00:00,Home & Garden,Shymkent,Postomat,38402,7.5,1903.0,30.0,No
+KS10246,2026-01-31 18:00:00,Cosmetics,Aktobe,Postomat,31946,4.3,1243.0,31.1,No
+KS10247,2026-01-31 21:00:00,Electronics,Aktobe,Express Courier,84698,10.5,2884.0,31.6,No
+KS10248,2026-02-01 00:00:00,Cosmetics,Almaty,Postomat,78933,0.5,1255.0,33.4,No
+KS10249,2026-02-01 03:00:00,Home & Garden,Shymkent,Postomat,27335,3.0,1199.0,30.6,No
+KS10250,2026-02-01 06:00:00,Electronics,Karaganda,Express Courier,50095,6.9,2808.0,29.4,No
+KS10251,2026-02-01 09:00:00,Cosmetics,Almaty,Express Courier,84930,4.4,2022.0,32.6,No
+KS10252,2026-02-01 12:00:00,Cosmetics,Shymkent,Postomat,32197,7.4,1747.0,29.6,No
+KS10253,2026-02-01 15:00:00,Home & Garden,Shymkent,Postomat,27010,0.6,1197.0,30.6,No
+KS10254,2026-02-01 18:00:00,Electronics,Almaty,Express Courier,29123,1.7,2124.0,27.7,No
+KS10255,2026-02-01 21:00:00,Home & Garden,Aktobe,Express Courier,7890,1.8,2165.0,7.6,No
+KS10256,2026-02-02 00:00:00,Electronics,Shymkent,Express Courier,13026,2.5,2054.0,19.2,No
+KS10257,2026-02-02 03:00:00,Auto Parts,Aktobe,Express Courier,69925,5.7,2717.0,31.1,No
+KS10258,2026-02-02 06:00:00,Clothing,Almaty,Postomat,73842,9.1,1906.0,32.4,No
+KS10259,2026-02-02 09:00:00,Clothing,Aktobe,Postomat,38665,10.9,1787.0,30.4,No
+KS10260,2026-02-02 12:00:00,Clothing,Astana,Postomat,14277,10.1,1916.0,21.6,No
+KS10261,2026-02-02 15:00:00,Home & Garden,Karaganda,Postomat,47239,2.6,1050.0,32.8,No
+KS10262,2026-02-02 18:00:00,Auto Parts,Shymkent,Express Courier,52664,5.5,2784.0,29.7,No
+KS10263,2026-02-02 21:00:00,Electronics,Karaganda,Postomat,53008,2.6,1234.0,32.7,No
+KS10264,2026-02-03 00:00:00,Cosmetics,Aktobe,Postomat,19683,3.4,1144.0,29.2,No
+KS10265,2026-02-03 03:00:00,Electronics,Shymkent,Postomat,5670,6.2,1839.0,2.6,Yes
+KS10266,2026-02-03 06:00:00,Cosmetics,Aktobe,Postomat,22889,1.1,1155.0,30.0,No
+KS10267,2026-02-03 09:00:00,Electronics,Astana,Express Courier,60612,2.9,2132.0,31.5,No
+KS10268,2026-02-03 12:00:00,Auto Parts,Almaty,Postomat,49535,11.2,1807.0,31.4,No
+KS10269,2026-02-03 15:00:00,Cosmetics,Shymkent,Express Courier,83542,5.8,2827.0,31.6,No
+KS10270,2026-02-03 18:00:00,Home & Garden,Astana,Postomat,59319,5.5,1741.0,32.1,No
+KS10271,2026-02-03 21:00:00,Electronics,Astana,Express Courier,26639,0.5,2101.0,27.1,No
+KS10272,2026-02-04 00:00:00,Electronics,Shymkent,Express Courier,69712,3.2,2123.0,32.0,No
+KS10273,2026-02-04 03:00:00,Cosmetics,Aktobe,Postomat,21633,10.4,1839.0,26.5,No
+KS10274,2026-02-04 06:00:00,Home & Garden,Astana,Express Courier,39660,2.2,2102.0,29.7,No
+KS10275,2026-02-04 09:00:00,Home & Garden,Karaganda,Postomat,73975,5.2,1845.0,32.5,No
+KS10276,2026-02-04 12:00:00,Auto Parts,Astana,Express Courier,37172,0.5,2193.0,29.1,No
+KS10277,2026-02-04 15:00:00,Home & Garden,Aktobe,Postomat,64197,5.9,1773.0,32.2,No
+KS10278,2026-02-04 18:00:00,Home & Garden,Aktobe,Postomat,63847,0.5,1256.0,33.0,No
+KS10279,2026-02-04 21:00:00,Home & Garden,Karaganda,Postomat,16577,9.9,1921.0,23.4,No
+KS10280,2026-02-05 00:00:00,Clothing,Astana,Express Courier,82299,10.0,2757.0,31.7,No
+KS10281,2026-02-05 03:00:00,Auto Parts,Aktobe,Express Courier,25176,9.5,2771.0,24.0,No
+KS10282,2026-02-05 06:00:00,Electronics,Shymkent,Express Courier,49386,3.6,2016.0,30.9,No
+KS10283,2026-02-05 09:00:00,Cosmetics,Almaty,Express Courier,68972,10.1,2845.0,30.9,No
+KS10284,2026-02-05 12:00:00,Electronics,Almaty,Postomat,46003,6.7,1770.0,31.2,No
+KS10285,2026-02-05 15:00:00,Auto Parts,Almaty,Postomat,24996,4.7,1111.0,30.6,No
+KS10286,2026-02-05 18:00:00,Cosmetics,Astana,Postomat,40931,7.6,1740.0,30.7,No
+KS10287,2026-02-05 21:00:00,Auto Parts,Karaganda,Postomat,40710,0.4,1272.0,31.9,No
+KS10288,2026-02-06 00:00:00,Home & Garden,Aktobe,Postomat,39693,2.0,1292.0,31.7,No
+KS10289,2026-02-06 03:00:00,Cosmetics,Shymkent,Postomat,40740,9.0,1946.0,30.2,No
+KS10290,2026-02-06 06:00:00,Home & Garden,Shymkent,Express Courier,82241,3.2,2230.0,32.3,No
+KS10291,2026-02-06 09:00:00,Electronics,Astana,Postomat,81502,7.3,1818.0,32.8,No
+KS10292,2026-02-06 12:00:00,Electronics,Almaty,Postomat,22374,4.8,1211.0,29.6,No
+KS10293,2026-02-06 15:00:00,Cosmetics,Astana,Postomat,81674,10.3,1897.0,32.7,No
+KS10294,2026-02-06 18:00:00,Cosmetics,Karaganda,Express Courier,50913,11.4,2891.0,29.3,No
+KS10295,2026-02-06 21:00:00,Auto Parts,Karaganda,Express Courier,71025,10.6,2879.0,30.9,No
+KS10296,2026-02-07 00:00:00,Auto Parts,Aktobe,Postomat,49516,3.5,1094.0,32.8,No
+KS10297,2026-02-07 03:00:00,Home & Garden,Aktobe,Postomat,31069,2.6,1107.0,31.4,No
+KS10298,2026-02-07 06:00:00,Cosmetics,Karaganda,Postomat,61233,5.9,1878.0,31.9,No
+KS10299,2026-02-07 09:00:00,Electronics,Karaganda,Express Courier,64049,0.4,2125.0,31.7,No
+KS10300,2026-02-07 12:00:00,Auto Parts,Karaganda,Postomat,44178,0.6,1211.0,32.3,No
+KS10301,2026-02-07 15:00:00,Auto Parts,Astana,Express Courier,37821,6.8,2693.0,27.9,No
+KS10302,2026-02-07 18:00:00,Electronics,Karaganda,Express Courier,56727,6.4,2664.0,30.3,No
+KS10303,2026-02-07 21:00:00,Auto Parts,Shymkent,Express Courier,65935,11.9,2727.0,30.9,No
+KS10304,2026-02-08 00:00:00,Home & Garden,Almaty,Postomat,21999,2.7,1119.0,29.9,No
+KS10305,2026-02-08 03:00:00,Cosmetics,Karaganda,Postomat,67522,3.3,1227.0,33.2,No
+KS10306,2026-02-08 06:00:00,Electronics,Almaty,Express Courier,43712,1.6,2100.0,30.2,No
+KS10307,2026-02-08 09:00:00,Cosmetics,Astana,Postomat,69551,11.0,1941.0,32.2,No
+KS10308,2026-02-08 12:00:00,Auto Parts,Almaty,Express Courier,45172,9.4,2809.0,28.8,No
+KS10309,2026-02-08 15:00:00,Auto Parts,Astana,Postomat,38722,9.9,1894.0,30.1,No
+KS10310,2026-02-08 18:00:00,Electronics,Shymkent,Postomat,15625,10.9,1702.0,24.1,No
+KS10311,2026-02-08 21:00:00,Home & Garden,Astana,Postomat,72165,6.4,1913.0,32.3,No
+KS10312,2026-02-09 00:00:00,Clothing,Astana,Express Courier,81509,5.6,2735.0,31.6,No
+KS10313,2026-02-09 03:00:00,Electronics,Aktobe,Postomat,11859,4.2,1123.0,25.5,No
+KS10314,2026-02-09 06:00:00,Clothing,Karaganda,Postomat,46609,7.2,1750.0,31.2,No
+KS10315,2026-02-09 09:00:00,Clothing,Karaganda,Express Courier,48307,5.6,2716.0,29.4,No
+KS10316,2026-02-09 12:00:00,Home & Garden,Shymkent,Postomat,26839,5.6,1775.0,28.4,No
+KS10317,2026-02-09 15:00:00,Clothing,Shymkent,Express Courier,32216,11.3,2742.0,26.5,No
+KS10318,2026-02-09 18:00:00,Clothing,Karaganda,Postomat,57953,11.8,1875.0,31.8,No
+KS10319,2026-02-09 21:00:00,Home & Garden,Aktobe,Express Courier,65593,9.6,2794.0,30.7,No
+KS10320,2026-02-10 00:00:00,Clothing,Karaganda,Postomat,77075,9.2,1706.0,32.8,No
+KS10321,2026-02-10 03:00:00,Clothing,Aktobe,Postomat,54522,8.3,1712.0,31.9,No
+KS10322,2026-02-10 06:00:00,Clothing,Shymkent,Express Courier,9886,2.2,2119.0,13.6,No
+KS10323,2026-02-10 09:00:00,Electronics,Almaty,Express Courier,12485,1.0,2065.0,18.5,No
+KS10324,2026-02-10 12:00:00,Electronics,Shymkent,Express Courier,36455,8.4,2653.0,27.7,No
+KS10325,2026-02-10 15:00:00,Electronics,Shymkent,Postomat,21767,8.8,1837.0,26.6,No
+KS10326,2026-02-10 18:00:00,Home & Garden,Astana,Express Courier,33453,0.8,2230.0,28.3,No
+KS10327,2026-02-10 21:00:00,Auto Parts,Astana,Postomat,81280,11.2,1787.0,32.8,No
+KS10328,2026-02-11 00:00:00,Clothing,Astana,Express Courier,58442,1.4,2016.0,31.6,No
+KS10329,2026-02-11 03:00:00,Clothing,Astana,Express Courier,56877,3.6,2051.0,31.4,No
+KS10330,2026-02-11 06:00:00,Home & Garden,Aktobe,Postomat,17226,8.2,1833.0,24.4,No
+KS10331,2026-02-11 09:00:00,Clothing,Karaganda,Express Courier,27588,2.3,2210.0,27.0,No
+KS10332,2026-02-11 12:00:00,Electronics,Almaty,Postomat,83976,0.9,1118.0,33.7,No
+KS10333,2026-02-11 15:00:00,Auto Parts,Shymkent,Postomat,36709,4.2,1273.0,31.5,No
+KS10334,2026-02-11 18:00:00,Cosmetics,Aktobe,Postomat,52788,9.3,1901.0,31.4,No
+KS10335,2026-02-11 21:00:00,Clothing,Almaty,Postomat,42019,5.1,1836.0,30.6,No
+KS10336,2026-02-12 00:00:00,Electronics,Aktobe,Postomat,49948,7.9,1918.0,31.2,No
+KS10337,2026-02-12 03:00:00,Cosmetics,Aktobe,Express Courier,70133,7.1,2854.0,30.9,No
+KS10338,2026-02-12 06:00:00,Auto Parts,Shymkent,Express Courier,71458,0.6,2210.0,31.9,No
+KS10339,2026-02-12 09:00:00,Cosmetics,Karaganda,Express Courier,32526,11.9,2670.0,26.8,No
+KS10340,2026-02-12 12:00:00,Electronics,Astana,Postomat,78493,0.8,1073.0,33.6,No
+KS10341,2026-02-12 15:00:00,Cosmetics,Karaganda,Express Courier,57198,11.6,2879.0,30.0,No
+KS10342,2026-02-12 18:00:00,Home & Garden,Shymkent,Postomat,48395,6.7,1703.0,31.5,No
+KS10343,2026-02-12 21:00:00,Cosmetics,Shymkent,Postomat,29031,11.6,1851.0,28.6,No
+KS10344,2026-02-13 00:00:00,Clothing,Shymkent,Postomat,80542,1.6,1236.0,33.5,No
+KS10345,2026-02-13 03:00:00,Clothing,Almaty,Postomat,42701,6.0,1926.0,30.5,No
+KS10346,2026-02-13 06:00:00,Home & Garden,Karaganda,Express Courier,30939,2.3,2002.0,28.5,No
+KS10347,2026-02-13 09:00:00,Electronics,Karaganda,Postomat,54145,0.9,1117.0,32.9,No
+KS10348,2026-02-13 12:00:00,Clothing,Aktobe,Postomat,25324,7.5,1948.0,27.3,No
+KS10349,2026-02-13 15:00:00,Auto Parts,Aktobe,Express Courier,27867,2.7,2100.0,27.5,No
+KS10350,2026-02-13 18:00:00,Clothing,Aktobe,Express Courier,5203,7.2,2817.0,-19.1,Yes
+KS10351,2026-02-13 21:00:00,Clothing,Shymkent,Postomat,21544,1.6,1225.0,29.3,No
+KS10352,2026-02-14 00:00:00,Electronics,Karaganda,Postomat,20899,4.2,1103.0,29.7,No
+KS10353,2026-02-14 03:00:00,Cosmetics,Shymkent,Postomat,34063,9.4,1734.0,29.9,No
+KS10354,2026-02-14 06:00:00,Clothing,Almaty,Postomat,8748,5.4,1922.0,13.0,No
+KS10355,2026-02-14 09:00:00,Home & Garden,Aktobe,Postomat,71629,7.6,1755.0,32.5,No
+KS10356,2026-02-14 12:00:00,Cosmetics,Shymkent,Postomat,25884,7.9,1807.0,28.0,No
+KS10357,2026-02-14 15:00:00,Auto Parts,Shymkent,Express Courier,30183,10.2,2866.0,25.5,No
+KS10358,2026-02-14 18:00:00,Electronics,Almaty,Express Courier,76246,4.1,2039.0,32.3,No
+KS10359,2026-02-14 21:00:00,Auto Parts,Astana,Express Courier,24259,8.3,2854.0,23.2,No
+KS10360,2026-02-15 00:00:00,Cosmetics,Karaganda,Postomat,40959,11.6,1767.0,30.7,No
+KS10361,2026-02-15 03:00:00,Cosmetics,Astana,Postomat,38457,8.8,1745.0,30.5,No
+KS10362,2026-02-15 06:00:00,Cosmetics,Aktobe,Postomat,7103,6.0,1777.0,10.0,No
+KS10363,2026-02-15 09:00:00,Auto Parts,Shymkent,Express Courier,70901,7.7,2790.0,31.1,No
+KS10364,2026-02-15 12:00:00,Cosmetics,Almaty,Postomat,49535,9.0,1854.0,31.3,No
+KS10365,2026-02-15 15:00:00,Auto Parts,Almaty,Postomat,21103,7.5,1705.0,26.9,No
+KS10366,2026-02-15 18:00:00,Cosmetics,Karaganda,Postomat,83278,0.5,1066.0,33.7,No
+KS10367,2026-02-15 21:00:00,Home & Garden,Astana,Postomat,17391,2.6,1213.0,28.0,No
+KS10368,2026-02-16 00:00:00,Cosmetics,Karaganda,Express Courier,33901,9.8,2881.0,26.5,No
+KS10369,2026-02-16 03:00:00,Auto Parts,Shymkent,Postomat,72914,3.5,1290.0,33.2,No
+KS10370,2026-02-16 06:00:00,Clothing,Karaganda,Express Courier,55357,8.9,2748.0,30.0,No
+KS10371,2026-02-16 09:00:00,Cosmetics,Almaty,Express Courier,43437,4.7,2080.0,30.2,No
+KS10372,2026-02-16 12:00:00,Clothing,Almaty,Postomat,40503,6.4,1932.0,30.2,No
+KS10373,2026-02-16 15:00:00,Home & Garden,Aktobe,Postomat,80403,1.1,1051.0,33.7,No
+KS10374,2026-02-16 18:00:00,Electronics,Aktobe,Postomat,46258,2.4,1298.0,32.2,No
+KS10375,2026-02-16 21:00:00,Home & Garden,Shymkent,Postomat,38724,11.5,1776.0,30.4,No
+KS10376,2026-02-17 00:00:00,Cosmetics,Astana,Postomat,69286,10.7,1879.0,32.3,No
+KS10377,2026-02-17 03:00:00,Clothing,Karaganda,Postomat,79842,7.9,1765.0,32.8,No
+KS10378,2026-02-17 06:00:00,Clothing,Shymkent,Postomat,19908,5.7,1751.0,26.2,No
+KS10379,2026-02-17 09:00:00,Auto Parts,Aktobe,Express Courier,55626,8.2,2741.0,30.1,No
+KS10380,2026-02-17 12:00:00,Clothing,Karaganda,Express Courier,42228,7.5,2820.0,28.3,No
+KS10381,2026-02-17 15:00:00,Auto Parts,Aktobe,Express Courier,28386,7.0,2867.0,24.9,No
+KS10382,2026-02-17 18:00:00,Electronics,Karaganda,Postomat,51754,1.0,1071.0,32.9,No
+KS10383,2026-02-17 21:00:00,Cosmetics,Astana,Express Courier,33302,7.7,2760.0,26.7,No
+KS10384,2026-02-18 00:00:00,Auto Parts,Shymkent,Express Courier,65815,9.3,2756.0,30.8,No
+KS10385,2026-02-18 03:00:00,Electronics,Karaganda,Express Courier,68344,11.9,2832.0,30.9,No
+KS10386,2026-02-18 06:00:00,Clothing,Almaty,Postomat,40618,0.4,1116.0,32.3,No
+KS10387,2026-02-18 09:00:00,Clothing,Almaty,Express Courier,81234,8.8,2876.0,31.5,No
+KS10388,2026-02-18 12:00:00,Electronics,Karaganda,Postomat,66114,7.0,1887.0,32.1,No
+KS10389,2026-02-18 15:00:00,Clothing,Karaganda,Express Courier,75130,5.4,2835.0,31.2,No
+KS10390,2026-02-18 18:00:00,Electronics,Karaganda,Postomat,30525,1.8,1189.0,31.1,No
+KS10391,2026-02-18 21:00:00,Auto Parts,Almaty,Express Courier,84818,5.1,2865.0,31.6,No
+KS10392,2026-02-19 00:00:00,Auto Parts,Almaty,Express Courier,19334,4.4,2068.0,24.3,No
+KS10393,2026-02-19 03:00:00,Electronics,Karaganda,Postomat,67767,3.8,1133.0,33.3,No
+KS10394,2026-02-19 06:00:00,Auto Parts,Aktobe,Express Courier,11644,8.9,2752.0,11.4,No
+KS10395,2026-02-19 09:00:00,Auto Parts,Aktobe,Express Courier,37933,8.5,2688.0,27.9,No
+KS10396,2026-02-19 12:00:00,Auto Parts,Astana,Express Courier,48469,7.2,2662.0,29.5,No
+KS10397,2026-02-19 15:00:00,Home & Garden,Shymkent,Express Courier,38687,11.3,2690.0,28.0,No
+KS10398,2026-02-19 18:00:00,Cosmetics,Aktobe,Express Courier,57656,4.4,2056.0,31.4,No
+KS10399,2026-02-19 21:00:00,Clothing,Almaty,Express Courier,22375,3.2,2180.0,25.3,No
+KS10400,2026-02-20 00:00:00,Home & Garden,Aktobe,Postomat,70206,8.0,1936.0,32.2,No
+KS10401,2026-02-20 03:00:00,Auto Parts,Astana,Postomat,41607,2.6,1061.0,32.4,No
+KS10402,2026-02-20 06:00:00,Electronics,Astana,Postomat,28993,4.0,1062.0,31.3,No
+KS10403,2026-02-20 09:00:00,Auto Parts,Shymkent,Express Courier,49386,2.9,2119.0,30.7,No
+KS10404,2026-02-20 12:00:00,Cosmetics,Aktobe,Postomat,51287,1.1,1251.0,32.6,No
+KS10405,2026-02-20 15:00:00,Auto Parts,Almaty,Express Courier,81312,10.0,2746.0,31.6,No
+KS10406,2026-02-20 18:00:00,Electronics,Almaty,Express Courier,80324,3.3,2056.0,32.4,No
+KS10407,2026-02-20 21:00:00,Cosmetics,Karaganda,Postomat,76196,5.8,1739.0,32.7,No
+KS10408,2026-02-21 00:00:00,Auto Parts,Almaty,Express Courier,75014,0.8,2117.0,32.2,No
+KS10409,2026-02-21 03:00:00,Cosmetics,Shymkent,Express Courier,13210,8.5,2729.0,14.3,No
+KS10410,2026-02-21 06:00:00,Clothing,Shymkent,Postomat,15922,4.2,1177.0,27.6,No
+KS10411,2026-02-21 09:00:00,Clothing,Almaty,Postomat,41289,9.0,1872.0,30.5,No
+KS10412,2026-02-21 12:00:00,Auto Parts,Almaty,Postomat,38340,5.1,1734.0,30.5,No
+KS10413,2026-02-21 15:00:00,Cosmetics,Karaganda,Postomat,44850,2.6,1052.0,32.7,No
+KS10414,2026-02-21 18:00:00,Electronics,Almaty,Postomat,61984,6.3,1819.0,32.1,No
+KS10415,2026-02-21 21:00:00,Auto Parts,Karaganda,Express Courier,16094,1.8,2004.0,22.5,No
+KS10416,2026-02-22 00:00:00,Clothing,Karaganda,Express Courier,38418,5.5,2867.0,27.5,No
+KS10417,2026-02-22 03:00:00,Clothing,Almaty,Express Courier,10741,4.0,2010.0,16.3,No
+KS10418,2026-02-22 06:00:00,Auto Parts,Astana,Express Courier,77374,11.0,2775.0,31.4,No
+KS10419,2026-02-22 09:00:00,Cosmetics,Astana,Express Courier,73798,1.0,2070.0,32.2,No
+KS10420,2026-02-22 12:00:00,Clothing,Karaganda,Postomat,75532,8.4,1816.0,32.6,No
+KS10421,2026-02-22 15:00:00,Cosmetics,Almaty,Postomat,27164,2.4,1233.0,30.5,No
+KS10422,2026-02-22 18:00:00,Clothing,Astana,Postomat,40595,4.0,1187.0,32.1,No
+KS10423,2026-02-22 21:00:00,Clothing,Almaty,Express Courier,35257,5.2,2755.0,27.2,No
+KS10424,2026-02-23 00:00:00,Home & Garden,Almaty,Postomat,19211,10.9,1815.0,25.6,No
+KS10425,2026-02-23 03:00:00,Clothing,Almaty,Postomat,10232,3.1,1211.0,23.2,No
+KS10426,2026-02-23 06:00:00,Electronics,Aktobe,Postomat,72753,1.4,1116.0,33.5,No
+KS10427,2026-02-23 09:00:00,Auto Parts,Almaty,Express Courier,57691,4.0,2199.0,31.2,No
+KS10428,2026-02-23 12:00:00,Auto Parts,Aktobe,Postomat,84768,1.5,1080.0,33.7,No
+KS10429,2026-02-23 15:00:00,Cosmetics,Karaganda,Express Courier,30613,1.8,2074.0,28.2,No
+KS10430,2026-02-23 18:00:00,Clothing,Astana,Express Courier,19026,7.0,2886.0,19.8,No
+KS10431,2026-02-23 21:00:00,Electronics,Astana,Express Courier,58535,1.0,2070.0,31.5,No
+KS10432,2026-02-24 00:00:00,Cosmetics,Astana,Postomat,35908,0.7,1286.0,31.4,No
+KS10433,2026-02-24 03:00:00,Home & Garden,Astana,Postomat,57113,8.7,1765.0,31.9,No
+KS10434,2026-02-24 06:00:00,Cosmetics,Astana,Express Courier,24610,4.5,2069.0,26.6,No
+KS10435,2026-02-24 09:00:00,Cosmetics,Astana,Express Courier,51646,1.8,2040.0,31.1,No
+KS10436,2026-02-24 12:00:00,Clothing,Astana,Postomat,68185,3.3,1240.0,33.2,No
+KS10437,2026-02-24 15:00:00,Home & Garden,Karaganda,Express Courier,77567,7.8,2809.0,31.4,No
+KS10438,2026-02-24 18:00:00,Cosmetics,Almaty,Express Courier,52574,3.5,2019.0,31.2,No
+KS10439,2026-02-24 21:00:00,Electronics,Shymkent,Express Courier,41182,6.1,2834.0,28.1,No
+KS10440,2026-02-25 00:00:00,Electronics,Aktobe,Postomat,5570,1.7,1275.0,12.1,No
+KS10441,2026-02-25 03:00:00,Auto Parts,Shymkent,Express Courier,24288,7.2,2827.0,23.4,No
+KS10442,2026-02-25 06:00:00,Home & Garden,Shymkent,Express Courier,83824,4.0,2207.0,32.4,No
+KS10443,2026-02-25 09:00:00,Home & Garden,Almaty,Express Courier,34877,7.6,2802.0,27.0,No
+KS10444,2026-02-25 12:00:00,Auto Parts,Almaty,Postomat,5917,9.8,1839.0,3.9,Yes
+KS10445,2026-02-25 15:00:00,Cosmetics,Almaty,Postomat,80602,7.5,1898.0,32.6,No
+KS10446,2026-02-25 18:00:00,Home & Garden,Astana,Postomat,69575,3.8,1088.0,33.4,No
+KS10447,2026-02-25 21:00:00,Electronics,Karaganda,Express Courier,77518,3.3,2144.0,32.2,No
+KS10448,2026-02-26 00:00:00,Electronics,Astana,Postomat,44104,4.1,1094.0,32.5,No
+KS10449,2026-02-26 03:00:00,Clothing,Karaganda,Express Courier,23062,2.2,2138.0,25.7,No
+KS10450,2026-02-26 06:00:00,Home & Garden,Karaganda,Postomat,21999,2.4,1119.0,29.9,No
+KS10451,2026-02-26 09:00:00,Cosmetics,Shymkent,Postomat,66845,9.6,1824.0,32.3,No
+KS10452,2026-02-26 12:00:00,Auto Parts,Shymkent,Postomat,14941,4.8,1200.0,27.0,No
+KS10453,2026-02-26 15:00:00,Auto Parts,Karaganda,Postomat,66169,5.4,1790.0,32.3,No
+KS10454,2026-02-26 18:00:00,Cosmetics,Karaganda,Postomat,28470,7.3,1937.0,28.2,No
+KS10455,2026-02-26 21:00:00,Clothing,Astana,Express Courier,64821,7.2,2719.0,30.8,No
+KS10456,2026-02-27 00:00:00,Auto Parts,Astana,Postomat,49435,1.1,1215.0,32.5,No
+KS10457,2026-02-27 03:00:00,Home & Garden,Shymkent,Express Courier,9529,10.0,2779.0,5.8,No
+KS10458,2026-02-27 06:00:00,Clothing,Almaty,Postomat,17192,2.4,1263.0,27.7,No
+KS10459,2026-02-27 09:00:00,Home & Garden,Karaganda,Express Courier,79102,8.8,2733.0,31.5,No
+KS10460,2026-02-27 12:00:00,Electronics,Astana,Express Courier,77762,9.3,2738.0,31.5,No
+KS10461,2026-02-27 15:00:00,Clothing,Shymkent,Express Courier,39087,8.7,2728.0,28.0,No
+KS10462,2026-02-27 18:00:00,Auto Parts,Astana,Express Courier,71677,7.1,2762.0,31.1,No
+KS10463,2026-02-27 21:00:00,Clothing,Karaganda,Postomat,9627,0.5,1142.0,23.1,No
+KS10464,2026-02-28 00:00:00,Clothing,Karaganda,Postomat,61541,4.5,1121.0,33.2,No
+KS10465,2026-02-28 03:00:00,Clothing,Aktobe,Express Courier,73226,7.4,2814.0,31.2,No
+KS10466,2026-02-28 06:00:00,Clothing,Almaty,Express Courier,8255,4.8,2048.0,10.2,No
+KS10467,2026-02-28 09:00:00,Home & Garden,Aktobe,Postomat,62433,10.4,1751.0,32.2,No
+KS10468,2026-02-28 12:00:00,Electronics,Shymkent,Express Courier,10213,3.9,2032.0,15.1,No
+KS10469,2026-02-28 15:00:00,Cosmetics,Astana,Postomat,24404,3.7,1071.0,30.6,No
+KS10470,2026-02-28 18:00:00,Clothing,Shymkent,Postomat,30380,3.4,1163.0,31.2,No
+KS10471,2026-02-28 21:00:00,Auto Parts,Karaganda,Postomat,24173,4.2,1288.0,29.7,No
+KS10472,2026-03-01 00:00:00,Clothing,Aktobe,Postomat,58027,6.8,1832.0,31.8,No
+KS10473,2026-03-01 03:00:00,Auto Parts,Aktobe,Express Courier,28989,8.6,2880.0,25.1,No
+KS10474,2026-03-01 06:00:00,Home & Garden,Aktobe,Postomat,29519,8.1,1717.0,29.2,No
+KS10475,2026-03-01 09:00:00,Auto Parts,Shymkent,Express Courier,27439,9.8,2815.0,24.7,No
+KS10476,2026-03-01 12:00:00,Cosmetics,Karaganda,Express Courier,81949,10.7,2767.0,31.6,No
+KS10477,2026-03-01 15:00:00,Electronics,Astana,Postomat,19995,9.8,1816.0,25.9,No
+KS10478,2026-03-01 18:00:00,Auto Parts,Astana,Express Courier,28559,0.5,2036.0,27.9,No
+KS10479,2026-03-01 21:00:00,Auto Parts,Shymkent,Postomat,10021,8.9,1921.0,15.8,No
+KS10480,2026-03-02 00:00:00,Electronics,Aktobe,Postomat,26119,2.7,1292.0,30.1,No
+KS10481,2026-03-02 03:00:00,Cosmetics,Almaty,Postomat,56539,1.9,1272.0,32.8,No
+KS10482,2026-03-02 06:00:00,Clothing,Shymkent,Postomat,44350,7.8,1763.0,31.0,No
+KS10483,2026-03-02 09:00:00,Auto Parts,Shymkent,Express Courier,51223,4.0,2137.0,30.8,No
+KS10484,2026-03-02 12:00:00,Electronics,Karaganda,Express Courier,30517,1.0,2078.0,28.2,No
+KS10485,2026-03-02 15:00:00,Home & Garden,Astana,Postomat,83653,1.9,1219.0,33.5,No
+KS10486,2026-03-02 18:00:00,Electronics,Shymkent,Express Courier,27250,0.3,2122.0,27.2,No
+KS10487,2026-03-02 21:00:00,Home & Garden,Shymkent,Postomat,71798,10.9,1875.0,32.4,No
+KS10488,2026-03-03 00:00:00,Cosmetics,Aktobe,Postomat,59199,0.6,1093.0,33.2,No
+KS10489,2026-03-03 03:00:00,Clothing,Aktobe,Postomat,64546,2.8,1131.0,33.2,No
+KS10490,2026-03-03 06:00:00,Electronics,Almaty,Express Courier,8327,5.2,2736.0,2.1,Yes
+KS10491,2026-03-03 09:00:00,Auto Parts,Karaganda,Express Courier,34768,4.5,2224.0,28.6,No
+KS10492,2026-03-03 12:00:00,Cosmetics,Almaty,Express Courier,69418,11.0,2665.0,31.2,No
+KS10493,2026-03-03 15:00:00,Electronics,Aktobe,Express Courier,47788,0.8,2053.0,30.7,No
+KS10494,2026-03-03 18:00:00,Auto Parts,Astana,Postomat,51830,6.3,1801.0,31.5,No
+KS10495,2026-03-03 21:00:00,Electronics,Aktobe,Express Courier,57446,8.3,2812.0,30.1,No
+KS10496,2026-03-04 00:00:00,Home & Garden,Karaganda,Express Courier,20160,11.2,2747.0,21.4,No
+KS10497,2026-03-04 03:00:00,Electronics,Aktobe,Express Courier,61583,7.6,2805.0,30.4,No
+KS10498,2026-03-04 06:00:00,Electronics,Karaganda,Postomat,38998,9.7,1701.0,30.6,No
+KS10499,2026-03-04 09:00:00,Electronics,Karaganda,Postomat,32230,1.3,1143.0,31.5,No
+KS10500,2026-03-04 12:00:00,Cosmetics,Karaganda,Express Courier,14076,4.8,2140.0,19.8,No
+KS10501,2026-03-04 15:00:00,Electronics,Karaganda,Express Courier,74341,4.7,2168.0,32.1,No
+KS10502,2026-03-04 18:00:00,Auto Parts,Karaganda,Express Courier,36085,10.7,2857.0,27.1,No
+KS10503,2026-03-04 21:00:00,Home & Garden,Astana,Express Courier,60571,2.1,2058.0,31.6,No
+KS10504,2026-03-05 00:00:00,Home & Garden,Almaty,Postomat,19715,2.1,1118.0,29.3,No
+KS10505,2026-03-05 03:00:00,Electronics,Shymkent,Postomat,10750,4.1,1168.0,24.1,No
+KS10506,2026-03-05 06:00:00,Cosmetics,Almaty,Express Courier,83768,0.9,2091.0,32.5,No
+KS10507,2026-03-05 09:00:00,Cosmetics,Karaganda,Express Courier,40903,2.4,2180.0,29.7,No
+KS10508,2026-03-05 12:00:00,Auto Parts,Astana,Postomat,77489,11.6,1930.0,32.5,No
+KS10509,2026-03-05 15:00:00,Electronics,Aktobe,Postomat,37093,5.3,1744.0,30.3,No
+KS10510,2026-03-05 18:00:00,Home & Garden,Astana,Postomat,39314,7.7,1847.0,30.3,No
+KS10511,2026-03-05 21:00:00,Cosmetics,Karaganda,Express Courier,53225,8.8,2673.0,30.0,No
+KS10512,2026-03-06 00:00:00,Electronics,Astana,Postomat,40179,4.6,1238.0,31.9,No
+KS10513,2026-03-06 03:00:00,Cosmetics,Astana,Express Courier,30338,2.0,2090.0,28.1,No
+KS10514,2026-03-06 06:00:00,Cosmetics,Karaganda,Postomat,74681,2.7,1143.0,33.5,No
+KS10515,2026-03-06 09:00:00,Home & Garden,Astana,Postomat,37101,4.0,1107.0,32.0,No
+KS10516,2026-03-06 12:00:00,Clothing,Shymkent,Express Courier,7775,7.7,2886.0,-2.1,Yes
+KS10517,2026-03-06 15:00:00,Auto Parts,Shymkent,Express Courier,50619,5.0,2154.0,30.7,No
+KS10518,2026-03-06 18:00:00,Auto Parts,Astana,Express Courier,50838,0.4,2153.0,30.8,No
+KS10519,2026-03-06 21:00:00,Home & Garden,Aktobe,Express Courier,24539,6.4,2777.0,23.7,No
+KS10520,2026-03-07 00:00:00,Cosmetics,Karaganda,Express Courier,62124,11.1,2656.0,30.7,No
+KS10521,2026-03-07 03:00:00,Electronics,Shymkent,Express Courier,70149,9.8,2819.0,31.0,No
+KS10522,2026-03-07 06:00:00,Cosmetics,Aktobe,Postomat,31616,10.0,1746.0,29.5,No
+KS10523,2026-03-07 09:00:00,Home & Garden,Astana,Postomat,84655,9.6,1752.0,32.9,No
+KS10524,2026-03-07 12:00:00,Auto Parts,Aktobe,Express Courier,59567,4.1,2186.0,31.3,No
+KS10525,2026-03-07 15:00:00,Cosmetics,Almaty,Postomat,42099,9.3,1737.0,30.9,No
+KS10526,2026-03-07 18:00:00,Auto Parts,Shymkent,Express Courier,80831,2.0,2196.0,32.3,No
+KS10527,2026-03-07 21:00:00,Electronics,Astana,Postomat,66799,8.0,1914.0,32.1,No
+KS10528,2026-03-08 00:00:00,Auto Parts,Karaganda,Express Courier,30479,7.8,2869.0,25.6,No
+KS10529,2026-03-08 03:00:00,Auto Parts,Astana,Postomat,51172,0.6,1275.0,32.5,No
+KS10530,2026-03-08 06:00:00,Clothing,Karaganda,Postomat,60863,9.5,1752.0,32.1,No
+KS10531,2026-03-08 09:00:00,Clothing,Astana,Postomat,47043,10.9,1842.0,31.1,No
+KS10532,2026-03-08 12:00:00,Clothing,Aktobe,Postomat,20408,3.4,1273.0,28.8,No
+KS10533,2026-03-08 15:00:00,Auto Parts,Aktobe,Express Courier,62980,9.8,2803.0,30.5,No
+KS10534,2026-03-08 18:00:00,Home & Garden,Aktobe,Postomat,21351,1.3,1097.0,29.9,No
+KS10535,2026-03-08 21:00:00,Auto Parts,Almaty,Express Courier,9131,7.3,2744.0,4.9,Yes
+KS10536,2026-03-09 00:00:00,Home & Garden,Karaganda,Express Courier,49825,6.0,2796.0,29.4,No
+KS10537,2026-03-09 03:00:00,Home & Garden,Aktobe,Express Courier,16349,6.7,2786.0,18.0,No
+KS10538,2026-03-09 06:00:00,Clothing,Almaty,Postomat,65931,11.1,1763.0,32.3,No
+KS10539,2026-03-09 09:00:00,Cosmetics,Karaganda,Express Courier,49254,10.5,2742.0,29.4,No
+KS10540,2026-03-09 12:00:00,Electronics,Astana,Postomat,43225,9.5,1881.0,30.6,No
+KS10541,2026-03-09 15:00:00,Clothing,Almaty,Postomat,17453,3.5,1174.0,28.3,No
+KS10542,2026-03-09 18:00:00,Clothing,Shymkent,Postomat,23814,11.0,1949.0,26.8,No
+KS10543,2026-03-09 21:00:00,Cosmetics,Almaty,Postomat,23263,1.4,1228.0,29.7,No
+KS10544,2026-03-10 00:00:00,Electronics,Almaty,Express Courier,82694,10.3,2688.0,31.7,No
+KS10545,2026-03-10 03:00:00,Auto Parts,Karaganda,Express Courier,20735,4.1,2003.0,25.3,No
+KS10546,2026-03-10 06:00:00,Auto Parts,Astana,Express Courier,20830,0.9,2125.0,24.8,No
+KS10547,2026-03-10 09:00:00,Clothing,Shymkent,Express Courier,52893,8.1,2652.0,30.0,No
+KS10548,2026-03-10 12:00:00,Electronics,Aktobe,Express Courier,49673,3.0,2247.0,30.5,No
+KS10549,2026-03-10 15:00:00,Clothing,Aktobe,Express Courier,50066,3.1,2063.0,30.9,No
+KS10550,2026-03-10 18:00:00,Home & Garden,Almaty,Express Courier,8373,3.9,2028.0,10.8,No
+KS10551,2026-03-10 21:00:00,Clothing,Karaganda,Postomat,15335,1.0,1165.0,27.4,No
+KS10552,2026-03-11 00:00:00,Clothing,Karaganda,Postomat,28741,2.4,1060.0,31.3,No
+KS10553,2026-03-11 03:00:00,Auto Parts,Aktobe,Express Courier,15692,0.4,2096.0,21.6,No
+KS10554,2026-03-11 06:00:00,Auto Parts,Shymkent,Postomat,52295,5.5,1801.0,31.6,No
+KS10555,2026-03-11 09:00:00,Auto Parts,Astana,Express Courier,50541,1.3,2185.0,30.7,No
+KS10556,2026-03-11 12:00:00,Home & Garden,Shymkent,Express Courier,39057,8.3,2852.0,27.7,No
+KS10557,2026-03-11 15:00:00,Auto Parts,Astana,Postomat,71983,3.1,1204.0,33.3,No
+KS10558,2026-03-11 18:00:00,Electronics,Aktobe,Postomat,24583,11.3,1924.0,27.2,No
+KS10559,2026-03-11 21:00:00,Cosmetics,Astana,Express Courier,27765,10.5,2670.0,25.4,No
+KS10560,2026-03-12 00:00:00,Electronics,Karaganda,Postomat,64287,3.7,1088.0,33.3,No
+KS10561,2026-03-12 03:00:00,Electronics,Almaty,Postomat,28906,9.5,1922.0,28.4,No
+KS10562,2026-03-12 06:00:00,Auto Parts,Almaty,Postomat,84675,9.7,1801.0,32.9,No
+KS10563,2026-03-12 09:00:00,Cosmetics,Aktobe,Postomat,51525,11.8,1745.0,31.6,No
+KS10564,2026-03-12 12:00:00,Cosmetics,Karaganda,Postomat,43230,7.3,1765.0,30.9,No
+KS10565,2026-03-12 15:00:00,Cosmetics,Shymkent,Express Courier,24520,1.3,2090.0,26.5,No
+KS10566,2026-03-12 18:00:00,Home & Garden,Karaganda,Express Courier,56934,7.9,2813.0,30.1,No
+KS10567,2026-03-12 21:00:00,Auto Parts,Almaty,Express Courier,30566,7.6,2852.0,25.7,No
+KS10568,2026-03-13 00:00:00,Cosmetics,Almaty,Postomat,78193,7.8,1810.0,32.7,No
+KS10569,2026-03-13 03:00:00,Home & Garden,Karaganda,Postomat,35134,3.9,1131.0,31.8,No
+KS10570,2026-03-13 06:00:00,Clothing,Karaganda,Express Courier,15345,10.4,2772.0,16.9,No
+KS10571,2026-03-13 09:00:00,Clothing,Almaty,Postomat,46185,11.5,1892.0,30.9,No
+KS10572,2026-03-13 12:00:00,Home & Garden,Shymkent,Postomat,75744,2.8,1240.0,33.4,No
+KS10573,2026-03-13 15:00:00,Home & Garden,Aktobe,Postomat,38455,1.3,1148.0,32.0,No
+KS10574,2026-03-13 18:00:00,Auto Parts,Aktobe,Postomat,33018,2.6,1084.0,31.7,No
+KS10575,2026-03-13 21:00:00,Auto Parts,Karaganda,Postomat,59219,9.9,1858.0,31.9,No
+KS10576,2026-03-14 00:00:00,Clothing,Aktobe,Express Courier,50991,8.2,2805.0,29.5,No
+KS10577,2026-03-14 03:00:00,Cosmetics,Almaty,Postomat,78616,7.7,1802.0,32.7,No
+KS10578,2026-03-14 06:00:00,Clothing,Almaty,Express Courier,14486,5.0,2128.0,20.3,No
+KS10579,2026-03-14 09:00:00,Cosmetics,Karaganda,Postomat,43862,7.1,1724.0,31.1,No
+KS10580,2026-03-14 12:00:00,Cosmetics,Karaganda,Express Courier,63870,3.9,2042.0,31.8,No
+KS10581,2026-03-14 15:00:00,Auto Parts,Karaganda,Postomat,48856,5.9,1929.0,31.1,No
+KS10582,2026-03-14 18:00:00,Electronics,Shymkent,Postomat,36379,9.6,1783.0,30.1,No
+KS10583,2026-03-14 21:00:00,Electronics,Aktobe,Express Courier,69729,11.8,2844.0,30.9,No
+KS10584,2026-03-15 00:00:00,Home & Garden,Karaganda,Postomat,33378,11.2,1890.0,29.3,No
+KS10585,2026-03-15 03:00:00,Auto Parts,Astana,Postomat,59353,11.2,1750.0,32.1,No
+KS10586,2026-03-15 06:00:00,Cosmetics,Astana,Postomat,54996,5.0,1179.0,32.9,No
+KS10587,2026-03-15 09:00:00,Electronics,Almaty,Postomat,19031,5.8,1909.0,25.0,No
+KS10588,2026-03-15 12:00:00,Cosmetics,Aktobe,Postomat,70982,8.6,1825.0,32.4,No
+KS10589,2026-03-15 15:00:00,Electronics,Karaganda,Express Courier,41683,11.1,2885.0,28.1,No
+KS10590,2026-03-15 18:00:00,Electronics,Astana,Express Courier,22618,2.0,2191.0,25.3,No
+KS10591,2026-03-15 21:00:00,Electronics,Aktobe,Express Courier,11587,3.9,2201.0,16.0,No
+KS10592,2026-03-16 00:00:00,Auto Parts,Almaty,Postomat,67790,1.9,1118.0,33.4,No
+KS10593,2026-03-16 03:00:00,Clothing,Shymkent,Express Courier,36480,7.5,2658.0,27.7,No
+KS10594,2026-03-16 06:00:00,Cosmetics,Aktobe,Postomat,25527,3.9,1051.0,30.9,No
+KS10595,2026-03-16 09:00:00,Auto Parts,Aktobe,Postomat,28569,4.1,1211.0,30.8,No
+KS10596,2026-03-16 12:00:00,Auto Parts,Shymkent,Postomat,16151,1.1,1237.0,27.3,No
+KS10597,2026-03-16 15:00:00,Auto Parts,Aktobe,Postomat,76094,4.4,1279.0,33.3,No
+KS10598,2026-03-16 18:00:00,Auto Parts,Almaty,Postomat,64174,10.4,1888.0,32.1,No
+KS10599,2026-03-16 21:00:00,Auto Parts,Almaty,Express Courier,49739,3.0,2158.0,30.7,No
+KS10600,2026-03-17 00:00:00,Home & Garden,Shymkent,Postomat,37954,8.4,1709.0,30.5,No
+KS10601,2026-03-17 03:00:00,Cosmetics,Karaganda,Postomat,40303,7.7,1813.0,30.5,No
+KS10602,2026-03-17 06:00:00,Auto Parts,Astana,Postomat,39700,10.4,1775.0,30.5,No
+KS10603,2026-03-17 09:00:00,Cosmetics,Karaganda,Postomat,72568,1.8,1213.0,33.3,No
+KS10604,2026-03-17 12:00:00,Home & Garden,Aktobe,Express Courier,71788,11.7,2895.0,31.0,No
+KS10605,2026-03-17 15:00:00,Home & Garden,Astana,Express Courier,76045,7.1,2734.0,31.4,No
+KS10606,2026-03-17 18:00:00,Cosmetics,Shymkent,Postomat,42842,11.9,1748.0,30.9,No
+KS10607,2026-03-17 21:00:00,Electronics,Shymkent,Express Courier,18900,11.0,2888.0,19.7,No
+KS10608,2026-03-18 00:00:00,Clothing,Astana,Postomat,6881,2.9,1119.0,18.7,No
+KS10609,2026-03-18 03:00:00,Electronics,Almaty,Postomat,38037,1.0,1289.0,31.6,No
+KS10610,2026-03-18 06:00:00,Electronics,Astana,Express Courier,6630,3.3,2176.0,2.2,Yes
+KS10611,2026-03-18 09:00:00,Electronics,Aktobe,Postomat,25789,6.5,1830.0,27.9,No
+KS10612,2026-03-18 12:00:00,Auto Parts,Almaty,Express Courier,51151,2.3,2201.0,30.7,No
+KS10613,2026-03-18 15:00:00,Home & Garden,Shymkent,Postomat,53920,2.3,1182.0,32.8,No
+KS10614,2026-03-18 18:00:00,Electronics,Astana,Postomat,72231,5.7,1937.0,32.3,No
+KS10615,2026-03-18 21:00:00,Home & Garden,Karaganda,Postomat,8262,0.7,1267.0,19.7,No
+KS10616,2026-03-19 00:00:00,Cosmetics,Karaganda,Express Courier,71981,1.7,2188.0,32.0,No
+KS10617,2026-03-19 03:00:00,Clothing,Aktobe,Postomat,80485,5.2,1912.0,32.6,No
+KS10618,2026-03-19 06:00:00,Cosmetics,Karaganda,Postomat,59722,1.0,1286.0,32.8,No
+KS10619,2026-03-19 09:00:00,Cosmetics,Astana,Postomat,55818,4.9,1139.0,33.0,No
+KS10620,2026-03-19 12:00:00,Auto Parts,Astana,Postomat,34932,5.8,1929.0,29.5,No
+KS10621,2026-03-19 15:00:00,Clothing,Karaganda,Express Courier,11901,5.6,2885.0,10.8,No
+KS10622,2026-03-19 18:00:00,Cosmetics,Astana,Express Courier,13597,10.5,2675.0,15.3,No
+KS10623,2026-03-19 21:00:00,Cosmetics,Aktobe,Express Courier,68909,6.5,2721.0,31.1,No
+KS10624,2026-03-20 00:00:00,Clothing,Almaty,Postomat,77391,5.8,1704.0,32.8,No
+KS10625,2026-03-20 03:00:00,Clothing,Aktobe,Express Courier,13263,5.1,2664.0,14.9,No
+KS10626,2026-03-20 06:00:00,Cosmetics,Aktobe,Express Courier,68293,9.9,2772.0,30.9,No
+KS10627,2026-03-20 09:00:00,Clothing,Astana,Postomat,30805,10.8,1843.0,29.0,No
+KS10628,2026-03-20 12:00:00,Cosmetics,Almaty,Express Courier,16874,10.3,2650.0,19.3,No
+KS10629,2026-03-20 15:00:00,Cosmetics,Astana,Postomat,19079,8.2,1843.0,25.3,No
+KS10630,2026-03-20 18:00:00,Auto Parts,Shymkent,Postomat,54850,1.9,1214.0,32.8,No
+KS10631,2026-03-20 21:00:00,Electronics,Astana,Postomat,77779,3.5,1052.0,33.6,No
+KS10632,2026-03-21 00:00:00,Cosmetics,Astana,Express Courier,14018,0.8,2179.0,19.5,No
+KS10633,2026-03-21 03:00:00,Home & Garden,Astana,Express Courier,54500,11.2,2696.0,30.1,No
+KS10634,2026-03-21 06:00:00,Electronics,Almaty,Postomat,17100,8.0,1794.0,24.5,No
+KS10635,2026-03-21 09:00:00,Electronics,Astana,Postomat,62021,9.0,1712.0,32.2,No
+KS10636,2026-03-21 12:00:00,Electronics,Almaty,Postomat,24800,3.9,1169.0,30.3,No
+KS10637,2026-03-21 15:00:00,Auto Parts,Karaganda,Express Courier,68400,10.2,2857.0,30.8,No
+KS10638,2026-03-21 18:00:00,Cosmetics,Shymkent,Postomat,34437,3.3,1104.0,31.8,No
+KS10639,2026-03-21 21:00:00,Auto Parts,Almaty,Postomat,81537,0.3,1284.0,33.4,No
+KS10640,2026-03-22 00:00:00,Cosmetics,Karaganda,Postomat,51675,4.7,1198.0,32.7,No
+KS10641,2026-03-22 03:00:00,Auto Parts,Almaty,Postomat,24942,7.0,1765.0,27.9,No
+KS10642,2026-03-22 06:00:00,Auto Parts,Almaty,Postomat,25862,5.9,1881.0,27.7,No
+KS10643,2026-03-22 09:00:00,Home & Garden,Shymkent,Postomat,16669,10.4,1854.0,23.9,No
+KS10644,2026-03-22 12:00:00,Auto Parts,Aktobe,Express Courier,58772,1.5,2165.0,31.3,No
+KS10645,2026-03-22 15:00:00,Clothing,Aktobe,Postomat,20916,6.8,1789.0,26.4,No
+KS10646,2026-03-22 18:00:00,Home & Garden,Almaty,Express Courier,15878,6.3,2835.0,17.1,No
+KS10647,2026-03-22 21:00:00,Auto Parts,Astana,Express Courier,7985,3.6,2061.0,9.2,No
+KS10648,2026-03-23 00:00:00,Electronics,Karaganda,Express Courier,78648,9.9,2751.0,31.5,No
+KS10649,2026-03-23 03:00:00,Clothing,Astana,Express Courier,46235,9.1,2823.0,28.9,No
+KS10650,2026-03-23 06:00:00,Clothing,Astana,Express Courier,23931,8.9,2866.0,23.0,No
+KS10651,2026-03-23 09:00:00,Clothing,Almaty,Express Courier,5336,10.6,2788.0,-17.2,Yes
+KS10652,2026-03-23 12:00:00,Home & Garden,Almaty,Postomat,47933,8.8,1899.0,31.0,No
+KS10653,2026-03-23 15:00:00,Auto Parts,Almaty,Postomat,50536,3.0,1057.0,32.9,No
+KS10654,2026-03-23 18:00:00,Auto Parts,Almaty,Express Courier,74504,8.6,2746.0,31.3,No
+KS10655,2026-03-23 21:00:00,Electronics,Aktobe,Postomat,56148,3.9,1166.0,32.9,No
+KS10656,2026-03-24 00:00:00,Electronics,Almaty,Postomat,21279,3.1,1248.0,29.1,No
+KS10657,2026-03-24 03:00:00,Clothing,Aktobe,Express Courier,73665,1.2,2063.0,32.2,No
+KS10658,2026-03-24 06:00:00,Electronics,Aktobe,Express Courier,76386,9.0,2879.0,31.2,No
+KS10659,2026-03-24 09:00:00,Home & Garden,Almaty,Postomat,82485,8.6,1720.0,32.9,No
+KS10660,2026-03-24 12:00:00,Auto Parts,Shymkent,Postomat,79055,3.0,1249.0,33.4,No
+KS10661,2026-03-24 15:00:00,Clothing,Karaganda,Postomat,82273,9.1,1814.0,32.8,No
+KS10662,2026-03-24 18:00:00,Electronics,Astana,Express Courier,71670,11.0,2895.0,31.0,No
+KS10663,2026-03-24 21:00:00,Home & Garden,Aktobe,Express Courier,81474,1.6,2190.0,32.3,No
+KS10664,2026-03-25 00:00:00,Home & Garden,Karaganda,Express Courier,59028,3.0,2084.0,31.5,No
+KS10665,2026-03-25 03:00:00,Electronics,Shymkent,Express Courier,76128,9.1,2841.0,31.3,No
+KS10666,2026-03-25 06:00:00,Auto Parts,Astana,Express Courier,23108,3.5,2247.0,25.3,No
+KS10667,2026-03-25 09:00:00,Electronics,Astana,Express Courier,57495,7.6,2669.0,30.4,No
+KS10668,2026-03-25 12:00:00,Clothing,Aktobe,Postomat,81533,1.2,1057.0,33.7,No
+KS10669,2026-03-25 15:00:00,Electronics,Almaty,Postomat,61830,5.6,1757.0,32.2,No
+KS10670,2026-03-25 18:00:00,Home & Garden,Shymkent,Express Courier,79640,8.9,2695.0,31.6,No
+KS10671,2026-03-25 21:00:00,Electronics,Aktobe,Postomat,57509,8.3,1730.0,32.0,No
+KS10672,2026-03-26 00:00:00,Auto Parts,Shymkent,Express Courier,71406,9.8,2891.0,31.0,No
+KS10673,2026-03-26 03:00:00,Cosmetics,Almaty,Postomat,44519,10.6,1948.0,30.6,No
+KS10674,2026-03-26 06:00:00,Electronics,Almaty,Express Courier,54649,9.3,2742.0,30.0,No
+KS10675,2026-03-26 09:00:00,Auto Parts,Aktobe,Postomat,39524,8.2,1939.0,30.1,No
+KS10676,2026-03-26 12:00:00,Auto Parts,Almaty,Postomat,38885,0.7,1058.0,32.3,No
+KS10677,2026-03-26 15:00:00,Home & Garden,Karaganda,Postomat,49369,6.6,1714.0,31.5,No
+KS10678,2026-03-26 18:00:00,Auto Parts,Astana,Express Courier,35676,0.7,2093.0,29.1,No
+KS10679,2026-03-26 21:00:00,Auto Parts,Aktobe,Postomat,69093,9.8,1853.0,32.3,No
+KS10680,2026-03-27 00:00:00,Auto Parts,Shymkent,Express Courier,52764,4.1,2137.0,30.9,No
+KS10681,2026-03-27 03:00:00,Auto Parts,Karaganda,Postomat,55799,6.9,1728.0,31.9,No
+KS10682,2026-03-27 06:00:00,Clothing,Aktobe,Postomat,84414,3.6,1295.0,33.5,No
+KS10683,2026-03-27 09:00:00,Clothing,Almaty,Express Courier,77307,9.5,2729.0,31.5,No
+KS10684,2026-03-27 12:00:00,Home & Garden,Almaty,Postomat,36923,10.7,1735.0,30.3,No
+KS10685,2026-03-27 15:00:00,Electronics,Almaty,Postomat,83388,5.0,1133.0,33.6,No
+KS10686,2026-03-27 18:00:00,Auto Parts,Almaty,Express Courier,52574,10.4,2758.0,29.8,No
+KS10687,2026-03-27 21:00:00,Electronics,Shymkent,Postomat,48391,3.4,1167.0,32.6,No
+KS10688,2026-03-28 00:00:00,Electronics,Karaganda,Express Courier,58664,6.6,2686.0,30.4,No
+KS10689,2026-03-28 03:00:00,Home & Garden,Astana,Postomat,72384,10.3,1785.0,32.5,No
+KS10690,2026-03-28 06:00:00,Auto Parts,Shymkent,Postomat,36027,4.1,1120.0,31.9,No
+KS10691,2026-03-28 09:00:00,Auto Parts,Shymkent,Postomat,40464,11.5,1850.0,30.4,No
+KS10692,2026-03-28 12:00:00,Cosmetics,Astana,Postomat,39485,1.7,1218.0,31.9,No
+KS10693,2026-03-28 15:00:00,Electronics,Astana,Postomat,24456,0.5,1281.0,29.8,No
+KS10694,2026-03-28 18:00:00,Electronics,Almaty,Express Courier,79795,10.9,2742.0,31.6,No
+KS10695,2026-03-28 21:00:00,Clothing,Shymkent,Postomat,40554,1.1,1129.0,32.2,No
+KS10696,2026-03-29 00:00:00,Cosmetics,Aktobe,Express Courier,51922,11.9,2751.0,29.7,No
+KS10697,2026-03-29 03:00:00,Clothing,Astana,Postomat,18409,11.4,1855.0,24.9,No
+KS10698,2026-03-29 06:00:00,Clothing,Astana,Express Courier,74327,1.9,2175.0,32.1,No
+KS10699,2026-03-29 09:00:00,Clothing,Karaganda,Express Courier,41639,6.6,2815.0,28.2,No
+KS10700,2026-03-29 12:00:00,Home & Garden,Aktobe,Postomat,68627,2.5,1208.0,33.2,No
+KS10701,2026-03-29 15:00:00,Home & Garden,Aktobe,Express Courier,24692,5.3,2663.0,24.2,No
+KS10702,2026-03-29 18:00:00,Clothing,Astana,Postomat,83840,1.0,1166.0,33.6,No
+KS10703,2026-03-29 21:00:00,Cosmetics,Almaty,Express Courier,59200,2.9,2224.0,31.2,No
+KS10704,2026-03-30 00:00:00,Electronics,Karaganda,Express Courier,62415,4.6,2248.0,31.4,No
+KS10705,2026-03-30 03:00:00,Cosmetics,Aktobe,Postomat,23074,5.4,1772.0,27.3,No
+KS10706,2026-03-30 06:00:00,Auto Parts,Astana,Express Courier,20549,11.7,2898.0,20.9,No
+KS10707,2026-03-30 09:00:00,Home & Garden,Aktobe,Express Courier,34963,9.8,2740.0,27.2,No
+KS10708,2026-03-30 12:00:00,Electronics,Karaganda,Postomat,57265,8.9,1915.0,31.7,No
+KS10709,2026-03-30 15:00:00,Electronics,Karaganda,Express Courier,21061,6.6,2854.0,21.4,No
+KS10710,2026-03-30 18:00:00,Auto Parts,Shymkent,Postomat,63226,10.1,1789.0,32.2,No
+KS10711,2026-03-30 21:00:00,Auto Parts,Astana,Express Courier,33810,4.3,2028.0,29.0,No
+KS10712,2026-03-31 00:00:00,Clothing,Karaganda,Express Courier,65006,8.6,2828.0,30.6,No
+KS10713,2026-03-31 03:00:00,Home & Garden,Shymkent,Postomat,27800,11.9,1748.0,28.7,No
+KS10714,2026-03-31 06:00:00,Home & Garden,Shymkent,Express Courier,80476,4.0,2170.0,32.3,No
+KS10715,2026-03-31 09:00:00,Cosmetics,Aktobe,Express Courier,74460,8.2,2869.0,31.1,No
+KS10716,2026-03-31 12:00:00,Clothing,Aktobe,Express Courier,62767,10.2,2869.0,30.4,No
+KS10717,2026-03-31 15:00:00,Clothing,Shymkent,Express Courier,33054,11.0,2721.0,26.8,No
+KS10718,2026-03-31 18:00:00,Clothing,Aktobe,Postomat,80319,8.7,1914.0,32.6,No
+KS10719,2026-03-31 21:00:00,Clothing,Karaganda,Express Courier,50397,3.6,2220.0,30.6,No
+KS10720,2026-04-01 00:00:00,Home & Garden,Almaty,Postomat,18233,4.1,1182.0,28.5,No
+KS10721,2026-04-01 03:00:00,Home & Garden,Karaganda,Postomat,30068,0.5,1091.0,31.4,No
+KS10722,2026-04-01 06:00:00,Clothing,Shymkent,Express Courier,70727,9.2,2784.0,31.1,No
+KS10723,2026-04-01 09:00:00,Cosmetics,Shymkent,Postomat,75453,0.8,1091.0,33.6,No
+KS10724,2026-04-01 12:00:00,Electronics,Karaganda,Express Courier,30832,10.4,2813.0,25.9,No
+KS10725,2026-04-01 15:00:00,Electronics,Aktobe,Postomat,18682,1.7,1154.0,28.8,No
+KS10726,2026-04-01 18:00:00,Cosmetics,Aktobe,Express Courier,28383,2.3,2026.0,27.9,No
+KS10727,2026-04-01 21:00:00,Clothing,Shymkent,Postomat,63160,5.9,1757.0,32.2,No
+KS10728,2026-04-02 00:00:00,Home & Garden,Astana,Postomat,28666,8.9,1745.0,28.9,No
+KS10729,2026-04-02 03:00:00,Electronics,Aktobe,Express Courier,63817,1.9,2065.0,31.8,No
+KS10730,2026-04-02 06:00:00,Auto Parts,Karaganda,Postomat,39642,5.4,1724.0,30.7,No
+KS10731,2026-04-02 09:00:00,Auto Parts,Aktobe,Postomat,46830,5.9,1772.0,31.2,No
+KS10732,2026-04-02 12:00:00,Cosmetics,Karaganda,Express Courier,15234,2.8,2116.0,21.1,No
+KS10733,2026-04-02 15:00:00,Clothing,Shymkent,Express Courier,62616,1.7,2154.0,31.6,No
+KS10734,2026-04-02 18:00:00,Electronics,Aktobe,Postomat,14221,10.1,1828.0,22.1,No
+KS10735,2026-04-02 21:00:00,Clothing,Karaganda,Postomat,16410,6.2,1786.0,24.1,No
+KS10736,2026-04-03 00:00:00,Electronics,Shymkent,Postomat,66413,0.5,1123.0,33.3,No
+KS10737,2026-04-03 03:00:00,Cosmetics,Astana,Postomat,6051,9.7,1869.0,4.1,Yes
+KS10738,2026-04-03 06:00:00,Cosmetics,Karaganda,Postomat,80301,11.8,1879.0,32.7,No
+KS10739,2026-04-03 09:00:00,Auto Parts,Astana,Postomat,81918,7.4,1852.0,32.7,No
+KS10740,2026-04-03 12:00:00,Clothing,Astana,Express Courier,83116,6.2,2831.0,31.6,No
+KS10741,2026-04-03 15:00:00,Auto Parts,Almaty,Express Courier,61563,10.6,2774.0,30.5,No
+KS10742,2026-04-03 18:00:00,Clothing,Aktobe,Postomat,49757,11.4,1766.0,31.5,No
+KS10743,2026-04-03 21:00:00,Auto Parts,Karaganda,Postomat,82475,9.1,1705.0,32.9,No
+KS10744,2026-04-04 00:00:00,Home & Garden,Astana,Express Courier,56257,5.5,2774.0,30.1,No
+KS10745,2026-04-04 03:00:00,Home & Garden,Almaty,Express Courier,5307,7.2,2707.0,-16.0,Yes
+KS10746,2026-04-04 06:00:00,Home & Garden,Shymkent,Postomat,61889,8.5,1769.0,32.1,No
+KS10747,2026-04-04 09:00:00,Home & Garden,Karaganda,Postomat,73895,2.6,1102.0,33.5,No
+KS10748,2026-04-04 12:00:00,Electronics,Astana,Express Courier,40944,5.5,2715.0,28.4,No
+KS10749,2026-04-04 15:00:00,Home & Garden,Aktobe,Postomat,43134,10.0,1757.0,30.9,No
+KS10750,2026-04-04 18:00:00,Cosmetics,Almaty,Express Courier,32323,8.0,2899.0,26.0,No
+KS10751,2026-04-04 21:00:00,Cosmetics,Astana,Express Courier,76762,5.1,2731.0,31.4,No
+KS10752,2026-04-05 00:00:00,Electronics,Aktobe,Express Courier,30954,8.1,2736.0,26.2,No
+KS10753,2026-04-05 03:00:00,Home & Garden,Astana,Express Courier,60021,1.7,2001.0,31.7,No
+KS10754,2026-04-05 06:00:00,Home & Garden,Karaganda,Postomat,84866,5.0,1253.0,33.5,No
+KS10755,2026-04-05 09:00:00,Home & Garden,Karaganda,Express Courier,75427,9.6,2799.0,31.3,No
+KS10756,2026-04-05 12:00:00,Auto Parts,Karaganda,Postomat,9992,2.9,1086.0,24.1,No
+KS10757,2026-04-05 15:00:00,Clothing,Almaty,Postomat,6961,2.5,1197.0,17.8,No
+KS10758,2026-04-05 18:00:00,Auto Parts,Karaganda,Express Courier,17497,11.4,2752.0,19.3,No
+KS10759,2026-04-05 21:00:00,Clothing,Aktobe,Postomat,37551,2.8,1073.0,32.1,No
+KS10760,2026-04-06 00:00:00,Home & Garden,Astana,Postomat,81384,3.4,1161.0,33.6,No
+KS10761,2026-04-06 03:00:00,Home & Garden,Shymkent,Postomat,60755,11.6,1911.0,31.9,No
+KS10762,2026-04-06 06:00:00,Auto Parts,Aktobe,Express Courier,18255,8.9,2714.0,20.1,No
+KS10763,2026-04-06 09:00:00,Auto Parts,Aktobe,Postomat,9567,8.5,1892.0,15.2,No
+KS10764,2026-04-06 12:00:00,Clothing,Karaganda,Postomat,53847,10.3,1908.0,31.5,No
+KS10765,2026-04-06 15:00:00,Cosmetics,Almaty,Express Courier,53003,1.7,2128.0,31.0,No
+KS10766,2026-04-06 18:00:00,Clothing,Astana,Express Courier,25389,8.6,2766.0,24.1,No
+KS10767,2026-04-06 21:00:00,Auto Parts,Almaty,Postomat,49523,6.2,1815.0,31.3,No
+KS10768,2026-04-07 00:00:00,Auto Parts,Astana,Postomat,66576,10.0,1936.0,32.1,No
+KS10769,2026-04-07 03:00:00,Electronics,Astana,Express Courier,48919,6.2,2871.0,29.1,No
+KS10770,2026-04-07 06:00:00,Auto Parts,Almaty,Postomat,8358,7.6,1804.0,13.4,No
+KS10771,2026-04-07 09:00:00,Electronics,Aktobe,Express Courier,81524,5.9,2888.0,31.5,No
+KS10772,2026-04-07 12:00:00,Cosmetics,Astana,Postomat,10698,5.9,1702.0,19.1,No
+KS10773,2026-04-07 15:00:00,Clothing,Almaty,Express Courier,71809,9.3,2695.0,31.2,No
+KS10774,2026-04-07 18:00:00,Clothing,Astana,Postomat,60805,7.7,1754.0,32.1,No
+KS10775,2026-04-07 21:00:00,Electronics,Shymkent,Express Courier,36349,7.7,2724.0,27.5,No
+KS10776,2026-04-08 00:00:00,Clothing,Aktobe,Express Courier,81777,5.6,2865.0,31.5,No
+KS10777,2026-04-08 03:00:00,Auto Parts,Karaganda,Express Courier,55248,6.5,2863.0,29.8,No
+KS10778,2026-04-08 06:00:00,Home & Garden,Astana,Express Courier,80033,9.0,2841.0,31.5,No
+KS10779,2026-04-08 09:00:00,Electronics,Shymkent,Postomat,49041,10.0,1935.0,31.1,No
+KS10780,2026-04-08 12:00:00,Clothing,Karaganda,Express Courier,36954,8.4,2694.0,27.7,No
+KS10781,2026-04-08 15:00:00,Electronics,Karaganda,Postomat,13002,11.1,1853.0,20.7,No
+KS10782,2026-04-08 18:00:00,Electronics,Astana,Express Courier,74783,9.9,2726.0,31.4,No
+KS10783,2026-04-08 21:00:00,Home & Garden,Almaty,Express Courier,24738,6.9,2842.0,23.5,No
+KS10784,2026-04-09 00:00:00,Auto Parts,Astana,Express Courier,15703,8.2,2673.0,18.0,No
+KS10785,2026-04-09 03:00:00,Electronics,Shymkent,Express Courier,54422,11.1,2851.0,29.8,No
+KS10786,2026-04-09 06:00:00,Clothing,Karaganda,Express Courier,66899,7.5,2684.0,31.0,No
+KS10787,2026-04-09 09:00:00,Cosmetics,Astana,Express Courier,17392,10.0,2673.0,19.6,No
+KS10788,2026-04-09 12:00:00,Electronics,Almaty,Postomat,49724,8.4,1727.0,31.5,No
+KS10789,2026-04-09 15:00:00,Electronics,Astana,Express Courier,37299,6.8,2877.0,27.3,No
+KS10790,2026-04-09 18:00:00,Home & Garden,Aktobe,Postomat,20641,3.1,1257.0,28.9,No
+KS10791,2026-04-09 21:00:00,Auto Parts,Almaty,Postomat,84534,5.3,1931.0,32.7,No
+KS10792,2026-04-10 00:00:00,Cosmetics,Shymkent,Express Courier,11305,11.6,2665.0,11.4,No
+KS10793,2026-04-10 03:00:00,Clothing,Karaganda,Postomat,23782,8.0,1758.0,27.6,No
+KS10794,2026-04-10 06:00:00,Cosmetics,Astana,Postomat,83257,6.9,1908.0,32.7,No
+KS10795,2026-04-10 09:00:00,Clothing,Almaty,Postomat,82963,11.2,1942.0,32.7,No
+KS10796,2026-04-10 12:00:00,Auto Parts,Aktobe,Postomat,25566,7.2,1881.0,27.6,No
+KS10797,2026-04-10 15:00:00,Clothing,Almaty,Express Courier,72766,6.5,2856.0,31.1,No
+KS10798,2026-04-10 18:00:00,Home & Garden,Aktobe,Postomat,11511,9.2,1843.0,19.0,No
+KS10799,2026-04-10 21:00:00,Home & Garden,Shymkent,Postomat,31177,8.6,1714.0,29.5,No
+KS10800,2026-04-11 00:00:00,Home & Garden,Karaganda,Postomat,9765,2.6,1298.0,21.7,No
+KS10801,2026-04-11 03:00:00,Home & Garden,Shymkent,Postomat,25354,5.8,1925.0,27.4,No
+KS10802,2026-04-11 06:00:00,Cosmetics,Astana,Express Courier,28929,5.8,2660.0,25.8,No
+KS10803,2026-04-11 09:00:00,Auto Parts,Almaty,Express Courier,33820,4.7,2192.0,28.5,No
+KS10804,2026-04-11 12:00:00,Clothing,Aktobe,Postomat,34523,6.4,1778.0,29.8,No
+KS10805,2026-04-11 15:00:00,Clothing,Aktobe,Postomat,76088,5.1,1917.0,32.5,No
+KS10806,2026-04-11 18:00:00,Home & Garden,Almaty,Express Courier,71163,2.6,2114.0,32.0,No
+KS10807,2026-04-11 21:00:00,Home & Garden,Almaty,Express Courier,82525,5.1,2717.0,31.7,No
+KS10808,2026-04-12 00:00:00,Electronics,Astana,Express Courier,18780,1.1,2042.0,24.1,No
+KS10809,2026-04-12 03:00:00,Auto Parts,Shymkent,Express Courier,11589,7.0,2718.0,11.5,No
+KS10810,2026-04-12 06:00:00,Cosmetics,Aktobe,Postomat,39812,10.3,1926.0,30.2,No
+KS10811,2026-04-12 09:00:00,Clothing,Astana,Postomat,50939,8.8,1840.0,31.4,No
+KS10812,2026-04-12 12:00:00,Electronics,Shymkent,Express Courier,56493,4.5,2137.0,31.2,No
+KS10813,2026-04-12 15:00:00,Electronics,Astana,Express Courier,45953,1.3,2074.0,30.5,No
+KS10814,2026-04-12 18:00:00,Clothing,Aktobe,Express Courier,70785,2.7,2209.0,31.9,No
+KS10815,2026-04-12 21:00:00,Cosmetics,Almaty,Express Courier,24309,6.7,2875.0,23.2,No
+KS10816,2026-04-13 00:00:00,Electronics,Almaty,Postomat,59195,2.7,1152.0,33.1,No
+KS10817,2026-04-13 03:00:00,Electronics,Shymkent,Postomat,30901,6.7,1740.0,29.4,No
+KS10818,2026-04-13 06:00:00,Auto Parts,Karaganda,Postomat,28576,3.0,1283.0,30.5,No
+KS10819,2026-04-13 09:00:00,Cosmetics,Shymkent,Express Courier,36508,10.2,2827.0,27.3,No
+KS10820,2026-04-13 12:00:00,Electronics,Karaganda,Postomat,79711,4.9,1264.0,33.4,No
+KS10821,2026-04-13 15:00:00,Cosmetics,Astana,Postomat,30464,3.2,1248.0,30.9,No
+KS10822,2026-04-13 18:00:00,Clothing,Astana,Postomat,65281,9.8,1758.0,32.3,No
+KS10823,2026-04-13 21:00:00,Home & Garden,Aktobe,Postomat,21260,4.3,1088.0,29.9,No
+KS10824,2026-04-14 00:00:00,Electronics,Karaganda,Express Courier,40440,1.6,2002.0,30.0,No
+KS10825,2026-04-14 03:00:00,Auto Parts,Aktobe,Express Courier,61683,7.0,2853.0,30.4,No
+KS10826,2026-04-14 06:00:00,Clothing,Almaty,Express Courier,46430,7.1,2656.0,29.3,No
+KS10827,2026-04-14 09:00:00,Cosmetics,Karaganda,Express Courier,6987,8.7,2698.0,-3.6,Yes
+KS10828,2026-04-14 12:00:00,Clothing,Shymkent,Express Courier,30105,3.1,2025.0,28.3,No
+KS10829,2026-04-14 15:00:00,Electronics,Almaty,Postomat,83484,5.5,1860.0,32.8,No
+KS10830,2026-04-14 18:00:00,Cosmetics,Almaty,Postomat,18026,3.6,1150.0,28.6,No
+KS10831,2026-04-14 21:00:00,Home & Garden,Shymkent,Postomat,73309,1.2,1225.0,33.3,No
+KS10832,2026-04-15 00:00:00,Clothing,Almaty,Express Courier,50927,10.6,2728.0,29.6,No
+KS10833,2026-04-15 03:00:00,Electronics,Karaganda,Postomat,80414,8.8,1701.0,32.9,No
+KS10834,2026-04-15 06:00:00,Auto Parts,Aktobe,Postomat,62535,3.8,1282.0,32.9,No
+KS10835,2026-04-15 09:00:00,Cosmetics,Almaty,Postomat,47946,7.3,1826.0,31.2,No
+KS10836,2026-04-15 12:00:00,Clothing,Karaganda,Postomat,61561,2.7,1248.0,33.0,No
+KS10837,2026-04-15 15:00:00,Clothing,Astana,Postomat,15377,10.7,1859.0,22.9,No
+KS10838,2026-04-15 18:00:00,Home & Garden,Karaganda,Postomat,58592,1.6,1181.0,33.0,No
+KS10839,2026-04-15 21:00:00,Home & Garden,Aktobe,Express Courier,12347,0.3,2019.0,18.6,No
+KS10840,2026-04-16 00:00:00,Auto Parts,Karaganda,Express Courier,38776,6.2,2891.0,27.5,No
+KS10841,2026-04-16 03:00:00,Auto Parts,Shymkent,Express Courier,8783,7.1,2766.0,3.5,Yes
+KS10842,2026-04-16 06:00:00,Electronics,Aktobe,Express Courier,60798,7.1,2813.0,30.4,No
+KS10843,2026-04-16 09:00:00,Electronics,Astana,Express Courier,9298,0.9,2031.0,13.2,No
+KS10844,2026-04-16 12:00:00,Auto Parts,Shymkent,Postomat,75204,4.0,1077.0,33.6,No
+KS10845,2026-04-16 15:00:00,Auto Parts,Karaganda,Postomat,60161,6.1,1776.0,32.0,No
+KS10846,2026-04-16 18:00:00,Cosmetics,Aktobe,Postomat,65652,2.8,1050.0,33.4,No
+KS10847,2026-04-16 21:00:00,Home & Garden,Astana,Express Courier,39484,10.5,2837.0,27.8,No
+KS10848,2026-04-17 00:00:00,Electronics,Shymkent,Postomat,25922,1.3,1105.0,30.7,No
+KS10849,2026-04-17 03:00:00,Home & Garden,Astana,Postomat,39028,6.0,1734.0,30.6,No
+KS10850,2026-04-17 06:00:00,Home & Garden,Karaganda,Express Courier,25316,8.4,2761.0,24.1,No
+KS10851,2026-04-17 09:00:00,Auto Parts,Astana,Postomat,81996,3.4,1079.0,33.7,No
+KS10852,2026-04-17 12:00:00,Cosmetics,Almaty,Express Courier,21968,7.6,2703.0,22.7,No
+KS10853,2026-04-17 15:00:00,Clothing,Shymkent,Express Courier,35266,10.0,2685.0,27.4,No
+KS10854,2026-04-17 18:00:00,Cosmetics,Astana,Postomat,29000,2.5,1298.0,30.5,No
+KS10855,2026-04-17 21:00:00,Cosmetics,Karaganda,Express Courier,19011,11.0,2832.0,20.1,No
+KS10856,2026-04-18 00:00:00,Home & Garden,Karaganda,Postomat,7866,6.8,1916.0,10.6,No
+KS10857,2026-04-18 03:00:00,Cosmetics,Astana,Postomat,10898,3.8,1129.0,24.6,No
+KS10858,2026-04-18 06:00:00,Electronics,Karaganda,Postomat,23395,5.3,1757.0,27.5,No
+KS10859,2026-04-18 09:00:00,Home & Garden,Aktobe,Express Courier,44019,4.0,2082.0,30.3,No
+KS10860,2026-04-18 12:00:00,Electronics,Aktobe,Express Courier,9006,8.8,2714.0,4.9,Yes
+KS10861,2026-04-18 15:00:00,Clothing,Aktobe,Express Courier,39393,9.6,2718.0,28.1,No
+KS10862,2026-04-18 18:00:00,Home & Garden,Almaty,Postomat,15956,10.0,1827.0,23.5,No
+KS10863,2026-04-18 21:00:00,Clothing,Astana,Express Courier,55042,11.8,2700.0,30.1,No
+KS10864,2026-04-19 00:00:00,Home & Garden,Almaty,Express Courier,11078,9.6,2671.0,10.9,No
+KS10865,2026-04-19 03:00:00,Auto Parts,Karaganda,Postomat,34631,7.3,1915.0,29.5,No
+KS10866,2026-04-19 06:00:00,Cosmetics,Almaty,Postomat,67901,4.3,1156.0,33.3,No
+KS10867,2026-04-19 09:00:00,Auto Parts,Karaganda,Express Courier,74497,6.7,2758.0,31.3,No
+KS10868,2026-04-19 12:00:00,Clothing,Karaganda,Postomat,46574,0.8,1165.0,32.5,No
+KS10869,2026-04-19 15:00:00,Cosmetics,Shymkent,Postomat,36417,9.0,1800.0,30.1,No
+KS10870,2026-04-19 18:00:00,Home & Garden,Aktobe,Express Courier,70006,5.5,2830.0,31.0,No
+KS10871,2026-04-19 21:00:00,Cosmetics,Karaganda,Express Courier,44454,0.5,2099.0,30.3,No
+KS10872,2026-04-20 00:00:00,Electronics,Shymkent,Postomat,6587,1.0,1213.0,16.6,No
+KS10873,2026-04-20 03:00:00,Cosmetics,Aktobe,Postomat,59710,4.8,1117.0,33.1,No
+KS10874,2026-04-20 06:00:00,Electronics,Karaganda,Postomat,80886,7.1,1735.0,32.9,No
+KS10875,2026-04-20 09:00:00,Cosmetics,Karaganda,Express Courier,23816,5.7,2829.0,23.1,No
+KS10876,2026-04-20 12:00:00,Electronics,Almaty,Express Courier,34432,7.5,2830.0,26.8,No
+KS10877,2026-04-20 15:00:00,Clothing,Almaty,Express Courier,53617,5.9,2859.0,29.7,No
+KS10878,2026-04-20 18:00:00,Auto Parts,Aktobe,Express Courier,77373,8.0,2827.0,31.3,No
+KS10879,2026-04-20 21:00:00,Home & Garden,Karaganda,Express Courier,39217,2.9,2207.0,29.4,No
+KS10880,2026-04-21 00:00:00,Cosmetics,Astana,Express Courier,25884,1.6,2168.0,26.6,No
+KS10881,2026-04-21 03:00:00,Auto Parts,Almaty,Postomat,10454,7.3,1845.0,17.4,No
+KS10882,2026-04-21 06:00:00,Home & Garden,Aktobe,Postomat,79960,6.0,1721.0,32.8,No
+KS10883,2026-04-21 09:00:00,Home & Garden,Karaganda,Postomat,48618,0.6,1115.0,32.7,No
+KS10884,2026-04-21 12:00:00,Electronics,Karaganda,Postomat,67671,4.8,1070.0,33.4,No
+KS10885,2026-04-21 15:00:00,Clothing,Astana,Express Courier,52111,1.5,2099.0,31.0,No
+KS10886,2026-04-21 18:00:00,Clothing,Aktobe,Postomat,44613,6.5,1827.0,30.9,No
+KS10887,2026-04-21 21:00:00,Auto Parts,Karaganda,Express Courier,64993,4.9,2043.0,31.9,No
+KS10888,2026-04-22 00:00:00,Clothing,Almaty,Postomat,13848,7.5,1802.0,22.0,No
+KS10889,2026-04-22 03:00:00,Cosmetics,Astana,Postomat,83672,9.7,1746.0,32.9,No
+KS10890,2026-04-22 06:00:00,Clothing,Aktobe,Postomat,71125,3.8,1088.0,33.5,No
+KS10891,2026-04-22 09:00:00,Auto Parts,Astana,Postomat,66602,11.6,1728.0,32.4,No
+KS10892,2026-04-22 12:00:00,Clothing,Almaty,Postomat,77045,6.6,1753.0,32.7,No
+KS10893,2026-04-22 15:00:00,Cosmetics,Aktobe,Express Courier,47222,7.5,2739.0,29.2,No
+KS10894,2026-04-22 18:00:00,Electronics,Astana,Express Courier,54223,8.3,2734.0,30.0,No
+KS10895,2026-04-22 21:00:00,Auto Parts,Shymkent,Postomat,70333,8.1,1716.0,32.6,No
+KS10896,2026-04-23 00:00:00,Electronics,Almaty,Express Courier,57732,6.3,2729.0,30.3,No
+KS10897,2026-04-23 03:00:00,Electronics,Almaty,Postomat,54420,5.3,1887.0,31.5,No
+KS10898,2026-04-23 06:00:00,Electronics,Almaty,Postomat,80504,0.9,1208.0,33.5,No
+KS10899,2026-04-23 09:00:00,Home & Garden,Shymkent,Express Courier,7462,0.6,2242.0,5.0,No
+KS10900,2026-04-23 12:00:00,Home & Garden,Shymkent,Postomat,14460,4.5,1122.0,27.2,No
+KS10901,2026-04-23 15:00:00,Electronics,Karaganda,Postomat,14275,4.2,1272.0,26.1,No
+KS10902,2026-04-23 18:00:00,Auto Parts,Astana,Postomat,18269,4.8,1255.0,28.1,No
+KS10903,2026-04-23 21:00:00,Cosmetics,Karaganda,Postomat,70942,1.9,1098.0,33.5,No
+KS10904,2026-04-24 00:00:00,Cosmetics,Astana,Postomat,77920,8.9,1800.0,32.7,No
+KS10905,2026-04-24 03:00:00,Clothing,Shymkent,Postomat,27553,10.3,1701.0,28.8,No
+KS10906,2026-04-24 06:00:00,Auto Parts,Shymkent,Postomat,29366,11.3,1943.0,28.4,No
+KS10907,2026-04-24 09:00:00,Home & Garden,Karaganda,Express Courier,49036,6.1,2825.0,29.2,No
+KS10908,2026-04-24 12:00:00,Electronics,Aktobe,Postomat,22369,8.5,1937.0,26.3,No
+KS10909,2026-04-24 15:00:00,Clothing,Karaganda,Postomat,16795,10.3,1841.0,24.0,No
+KS10910,2026-04-24 18:00:00,Cosmetics,Astana,Express Courier,75021,5.2,2708.0,31.4,No
+KS10911,2026-04-24 21:00:00,Home & Garden,Karaganda,Postomat,73154,3.9,1146.0,33.4,No
+KS10912,2026-04-25 00:00:00,Home & Garden,Almaty,Postomat,35143,11.3,1798.0,29.9,No
+KS10913,2026-04-25 03:00:00,Electronics,Astana,Express Courier,34425,6.3,2835.0,26.8,No
+KS10914,2026-04-25 06:00:00,Cosmetics,Astana,Postomat,80139,6.1,1802.0,32.8,No
+KS10915,2026-04-25 09:00:00,Auto Parts,Aktobe,Postomat,10368,2.4,1235.0,23.1,No
+KS10916,2026-04-25 12:00:00,Home & Garden,Shymkent,Postomat,9621,1.6,1288.0,21.6,No
+KS10917,2026-04-25 15:00:00,Electronics,Astana,Express Courier,63829,10.2,2828.0,30.6,No
+KS10918,2026-04-25 18:00:00,Auto Parts,Shymkent,Express Courier,65294,7.5,2861.0,30.6,No
+KS10919,2026-04-25 21:00:00,Cosmetics,Karaganda,Express Courier,19719,4.1,2001.0,24.9,No
+KS10920,2026-04-26 00:00:00,Home & Garden,Almaty,Postomat,34227,2.5,1292.0,31.2,No
+KS10921,2026-04-26 03:00:00,Auto Parts,Aktobe,Express Courier,12566,6.8,2690.0,13.6,No
+KS10922,2026-04-26 06:00:00,Auto Parts,Shymkent,Postomat,17306,7.1,1910.0,24.0,No
+KS10923,2026-04-26 09:00:00,Auto Parts,Astana,Express Courier,58822,2.7,2122.0,31.4,No
+KS10924,2026-04-26 12:00:00,Home & Garden,Shymkent,Express Courier,29042,10.3,2878.0,25.1,No
+KS10925,2026-04-26 15:00:00,Home & Garden,Astana,Postomat,20086,1.3,1131.0,29.4,No
+KS10926,2026-04-26 18:00:00,Clothing,Shymkent,Postomat,22387,4.5,1193.0,29.7,No
+KS10927,2026-04-26 21:00:00,Cosmetics,Astana,Express Courier,32042,8.3,2781.0,26.3,No
+KS10928,2026-04-27 00:00:00,Electronics,Karaganda,Express Courier,56618,3.5,2139.0,31.2,No
+KS10929,2026-04-27 03:00:00,Auto Parts,Astana,Express Courier,23323,10.0,2678.0,23.5,No
+KS10930,2026-04-27 06:00:00,Clothing,Astana,Postomat,23019,9.0,1834.0,27.0,No
+KS10931,2026-04-27 09:00:00,Electronics,Almaty,Postomat,80426,9.5,1713.0,32.9,No
+KS10932,2026-04-27 12:00:00,Clothing,Astana,Express Courier,45863,1.7,2246.0,30.1,No
+KS10933,2026-04-27 15:00:00,Home & Garden,Almaty,Express Courier,15283,1.9,2011.0,21.8,No
+KS10934,2026-04-27 18:00:00,Auto Parts,Aktobe,Express Courier,23279,3.7,2098.0,26.0,No
+KS10935,2026-04-27 21:00:00,Electronics,Almaty,Postomat,51999,6.4,1832.0,31.5,No
+KS10936,2026-04-28 00:00:00,Electronics,Karaganda,Postomat,67780,9.1,1780.0,32.4,No
+KS10937,2026-04-28 03:00:00,Electronics,Almaty,Express Courier,27908,10.1,2899.0,24.6,No
+KS10938,2026-04-28 06:00:00,Electronics,Aktobe,Postomat,66584,8.5,1805.0,32.3,No
+KS10939,2026-04-28 09:00:00,Electronics,Karaganda,Express Courier,55225,11.2,2681.0,30.1,No
+KS10940,2026-04-28 12:00:00,Clothing,Shymkent,Express Courier,42952,8.9,2723.0,28.7,No
+KS10941,2026-04-28 15:00:00,Auto Parts,Shymkent,Postomat,42663,3.9,1220.0,32.1,No
+KS10942,2026-04-28 18:00:00,Home & Garden,Almaty,Postomat,66381,3.4,1130.0,33.3,No
+KS10943,2026-04-28 21:00:00,Home & Garden,Almaty,Postomat,52929,8.4,1768.0,31.7,No
+KS10944,2026-04-29 00:00:00,Home & Garden,Aktobe,Postomat,14343,2.6,1094.0,27.4,No
+KS10945,2026-04-29 03:00:00,Home & Garden,Aktobe,Express Courier,81173,1.4,2105.0,32.4,No
+KS10946,2026-04-29 06:00:00,Clothing,Astana,Postomat,44791,6.5,1836.0,30.9,No
+KS10947,2026-04-29 09:00:00,Cosmetics,Aktobe,Express Courier,34134,9.9,2826.0,26.7,No
+KS10948,2026-04-29 12:00:00,Auto Parts,Astana,Postomat,52101,1.5,1210.0,32.7,No
+KS10949,2026-04-29 15:00:00,Electronics,Karaganda,Express Courier,74443,9.6,2877.0,31.1,No
+KS10950,2026-04-29 18:00:00,Cosmetics,Almaty,Postomat,62530,9.8,1799.0,32.1,No
+KS10951,2026-04-29 21:00:00,Home & Garden,Karaganda,Express Courier,51799,5.9,2795.0,29.6,No
+KS10952,2026-04-30 00:00:00,Cosmetics,Aktobe,Express Courier,9827,1.0,2008.0,14.6,No
+KS10953,2026-04-30 03:00:00,Auto Parts,Karaganda,Postomat,67653,2.3,1111.0,33.4,No
+KS10954,2026-04-30 06:00:00,Electronics,Karaganda,Express Courier,18699,8.6,2834.0,19.8,No
+KS10955,2026-04-30 09:00:00,Electronics,Karaganda,Postomat,10313,8.6,1728.0,18.2,No
+KS10956,2026-04-30 12:00:00,Auto Parts,Aktobe,Express Courier,18598,10.8,2774.0,20.1,No
+KS10957,2026-04-30 15:00:00,Auto Parts,Karaganda,Express Courier,33807,7.1,2763.0,26.8,No
+KS10958,2026-04-30 18:00:00,Home & Garden,Astana,Express Courier,75423,1.8,2205.0,32.1,No
+KS10959,2026-04-30 21:00:00,Electronics,Aktobe,Express Courier,74390,1.7,2152.0,32.1,No
+KS10960,2026-05-01 00:00:00,Cosmetics,Karaganda,Postomat,50226,8.7,1842.0,31.3,No
+KS10961,2026-05-01 03:00:00,Clothing,Aktobe,Express Courier,64550,2.5,2133.0,31.7,No
+KS10962,2026-05-01 06:00:00,Clothing,Shymkent,Postomat,8558,4.1,1169.0,21.3,No
+KS10963,2026-05-01 09:00:00,Auto Parts,Astana,Postomat,80308,6.0,1869.0,32.7,No
+KS10964,2026-05-01 12:00:00,Home & Garden,Karaganda,Express Courier,55113,0.6,2156.0,31.1,No
+KS10965,2026-05-01 15:00:00,Clothing,Shymkent,Postomat,57999,3.2,1128.0,33.1,No
+KS10966,2026-05-01 18:00:00,Electronics,Shymkent,Postomat,60878,5.1,1792.0,32.1,No
+KS10967,2026-05-01 21:00:00,Auto Parts,Aktobe,Postomat,41343,3.6,1053.0,32.5,No
+KS10968,2026-05-02 00:00:00,Cosmetics,Shymkent,Express Courier,63219,1.9,2081.0,31.7,No
+KS10969,2026-05-02 03:00:00,Auto Parts,Astana,Express Courier,40186,8.8,2891.0,27.8,No
+KS10970,2026-05-02 06:00:00,Cosmetics,Astana,Postomat,41966,9.8,1884.0,30.5,No
+KS10971,2026-05-02 09:00:00,Auto Parts,Almaty,Postomat,38769,3.3,1226.0,31.8,No
+KS10972,2026-05-02 12:00:00,Auto Parts,Astana,Postomat,58218,9.4,1871.0,31.8,No
+KS10973,2026-05-02 15:00:00,Auto Parts,Shymkent,Express Courier,24229,4.8,2230.0,25.8,No
+KS10974,2026-05-02 18:00:00,Cosmetics,Astana,Postomat,80209,6.2,1907.0,32.6,No
+KS10975,2026-05-02 21:00:00,Cosmetics,Aktobe,Postomat,32877,10.3,1774.0,29.6,No
+KS10976,2026-05-03 00:00:00,Auto Parts,Almaty,Postomat,63001,9.1,1713.0,32.3,No
+KS10977,2026-05-03 03:00:00,Clothing,Shymkent,Express Courier,43084,9.7,2780.0,28.5,No
+KS10978,2026-05-03 06:00:00,Home & Garden,Almaty,Postomat,21806,1.9,1292.0,29.1,No
+KS10979,2026-05-03 09:00:00,Home & Garden,Shymkent,Express Courier,42034,1.1,2113.0,30.0,No
+KS10980,2026-05-03 12:00:00,Home & Garden,Aktobe,Express Courier,45317,10.8,2711.0,29.0,No
+KS10981,2026-05-03 15:00:00,Cosmetics,Almaty,Postomat,60468,4.8,1155.0,33.1,No
+KS10982,2026-05-03 18:00:00,Cosmetics,Karaganda,Express Courier,24094,3.7,2063.0,26.4,No
+KS10983,2026-05-03 21:00:00,Clothing,Shymkent,Express Courier,62796,8.8,2751.0,30.6,No
+KS10984,2026-05-04 00:00:00,Home & Garden,Karaganda,Express Courier,15589,10.1,2822.0,16.9,No
+KS10985,2026-05-04 03:00:00,Home & Garden,Almaty,Postomat,62221,10.4,1805.0,32.1,No
+KS10986,2026-05-04 06:00:00,Auto Parts,Karaganda,Postomat,6657,4.0,1259.0,16.1,No
+KS10987,2026-05-04 09:00:00,Cosmetics,Karaganda,Express Courier,44531,10.3,2835.0,28.6,No
+KS10988,2026-05-04 12:00:00,Home & Garden,Almaty,Postomat,57227,0.8,1069.0,33.1,No
+KS10989,2026-05-04 15:00:00,Clothing,Aktobe,Postomat,8164,0.9,1107.0,21.4,No
+KS10990,2026-05-04 18:00:00,Clothing,Karaganda,Express Courier,46247,7.6,2761.0,29.0,No
+KS10991,2026-05-04 21:00:00,Home & Garden,Karaganda,Postomat,24601,1.0,1266.0,29.9,No
+KS10992,2026-05-05 00:00:00,Cosmetics,Aktobe,Postomat,55599,4.1,1106.0,33.0,No
+KS10993,2026-05-05 03:00:00,Clothing,Karaganda,Postomat,76545,8.2,1929.0,32.5,No
+KS10994,2026-05-05 06:00:00,Auto Parts,Karaganda,Express Courier,9552,4.2,2204.0,11.9,No
+KS10995,2026-05-05 09:00:00,Clothing,Karaganda,Postomat,14417,2.4,1245.0,26.4,No
+KS10996,2026-05-05 12:00:00,Electronics,Astana,Postomat,63579,3.6,1168.0,33.2,No
+KS10997,2026-05-05 15:00:00,Electronics,Aktobe,Express Courier,73207,5.7,2855.0,31.1,No
+KS10998,2026-05-05 18:00:00,Cosmetics,Karaganda,Express Courier,77055,5.9,2746.0,31.4,No
+KS10999,2026-05-05 21:00:00,Home & Garden,Aktobe,Express Courier,83270,9.5,2741.0,31.7,No
+KS11000,2026-05-06 00:00:00,Cosmetics,Shymkent,Express Courier,8722,9.1,2701.0,4.0,Yes
+KS11001,2026-05-06 03:00:00,Cosmetics,Shymkent,Postomat,75442,5.6,1736.0,32.7,No
+KS11002,2026-05-06 06:00:00,Cosmetics,Karaganda,Express Courier,45031,10.2,2657.0,29.1,No
+KS11003,2026-05-06 09:00:00,Cosmetics,Aktobe,Express Courier,84235,1.6,2043.0,32.6,No
+KS11004,2026-05-06 12:00:00,Auto Parts,Aktobe,Postomat,26438,3.3,1147.0,30.7,No
+KS11005,2026-05-06 15:00:00,Auto Parts,Aktobe,Express Courier,63819,10.0,2885.0,30.5,No
+KS11006,2026-05-06 18:00:00,Clothing,Astana,Postomat,48856,4.7,1182.0,32.6,No
+KS11007,2026-05-06 21:00:00,Electronics,Shymkent,Express Courier,38576,11.8,2767.0,27.8,No
+KS11008,2026-05-07 00:00:00,Cosmetics,Aktobe,Express Courier,46938,5.8,2718.0,29.2,No
+KS11009,2026-05-07 03:00:00,Clothing,Aktobe,Express Courier,54028,9.6,2808.0,29.8,No
+KS11010,2026-05-07 06:00:00,Electronics,Astana,Express Courier,64807,5.0,2044.0,31.8,No
+KS11011,2026-05-07 09:00:00,Home & Garden,Astana,Express Courier,54877,5.3,2786.0,29.9,No
+KS11012,2026-05-07 12:00:00,Auto Parts,Aktobe,Postomat,48461,4.8,1283.0,32.4,No
+KS11013,2026-05-07 15:00:00,Electronics,Almaty,Postomat,45469,8.7,1731.0,31.2,No
+KS11014,2026-05-07 18:00:00,Home & Garden,Aktobe,Express Courier,25435,6.7,2682.0,24.5,No
+KS11015,2026-05-07 21:00:00,Electronics,Aktobe,Postomat,19191,11.3,1825.0,25.5,No
+KS11016,2026-05-08 00:00:00,Auto Parts,Astana,Postomat,32386,3.2,1116.0,31.6,No
+KS11017,2026-05-08 03:00:00,Auto Parts,Astana,Postomat,36721,1.5,1079.0,32.1,No
+KS11018,2026-05-08 06:00:00,Clothing,Aktobe,Express Courier,59786,4.9,2113.0,31.5,No
+KS11019,2026-05-08 09:00:00,Cosmetics,Aktobe,Express Courier,18704,7.5,2853.0,19.7,No
+KS11020,2026-05-08 12:00:00,Electronics,Aktobe,Express Courier,61635,10.4,2678.0,30.7,No
+KS11021,2026-05-08 15:00:00,Electronics,Astana,Postomat,7123,4.4,1180.0,18.4,No
+KS11022,2026-05-08 18:00:00,Home & Garden,Aktobe,Postomat,67993,7.9,1917.0,32.2,No
+KS11023,2026-05-08 21:00:00,Auto Parts,Aktobe,Express Courier,30416,4.4,2184.0,27.8,No
+KS11024,2026-05-09 00:00:00,Electronics,Karaganda,Express Courier,6814,7.5,2679.0,-4.3,Yes
+KS11025,2026-05-09 03:00:00,Auto Parts,Almaty,Postomat,83537,10.7,1836.0,32.8,No
+KS11026,2026-05-09 06:00:00,Electronics,Shymkent,Postomat,55258,3.0,1203.0,32.8,No
+KS11027,2026-05-09 09:00:00,Clothing,Almaty,Postomat,21508,5.0,1179.0,29.5,No
+KS11028,2026-05-09 12:00:00,Cosmetics,Karaganda,Postomat,83916,11.9,1761.0,32.9,No
+KS11029,2026-05-09 15:00:00,Electronics,Shymkent,Express Courier,40699,10.5,2652.0,28.5,No
+KS11030,2026-05-09 18:00:00,Auto Parts,Aktobe,Postomat,51335,6.9,1873.0,31.4,No
+KS11031,2026-05-09 21:00:00,Clothing,Karaganda,Postomat,51806,6.3,1767.0,31.6,No
+KS11032,2026-05-10 00:00:00,Electronics,Aktobe,Express Courier,82853,3.6,2024.0,32.6,No
+KS11033,2026-05-10 03:00:00,Home & Garden,Astana,Postomat,68768,6.4,1878.0,32.3,No
+KS11034,2026-05-10 06:00:00,Cosmetics,Karaganda,Postomat,40739,10.2,1840.0,30.5,No
+KS11035,2026-05-10 09:00:00,Electronics,Astana,Express Courier,39785,8.3,2880.0,27.8,No
+KS11036,2026-05-10 12:00:00,Clothing,Karaganda,Postomat,36980,3.7,1093.0,32.0,No
+KS11037,2026-05-10 15:00:00,Home & Garden,Karaganda,Postomat,6609,2.7,1212.0,16.7,No
+KS11038,2026-05-10 18:00:00,Clothing,Astana,Postomat,71253,3.4,1104.0,33.5,No
+KS11039,2026-05-10 21:00:00,Clothing,Shymkent,Express Courier,33141,2.3,2214.0,28.3,No
+KS11040,2026-05-11 00:00:00,Home & Garden,Almaty,Express Courier,35009,1.4,2136.0,28.9,No
+KS11041,2026-05-11 03:00:00,Clothing,Aktobe,Postomat,11782,5.2,1829.0,19.5,No
+KS11042,2026-05-11 06:00:00,Home & Garden,Karaganda,Express Courier,30933,1.6,2188.0,27.9,No
+KS11043,2026-05-11 09:00:00,Electronics,Aktobe,Postomat,82154,2.3,1295.0,33.4,No
+KS11044,2026-05-11 12:00:00,Home & Garden,Astana,Postomat,13307,6.7,1740.0,21.9,No
+KS11045,2026-05-11 15:00:00,Home & Garden,Aktobe,Express Courier,80874,2.2,2171.0,32.3,No
+KS11046,2026-05-11 18:00:00,Cosmetics,Astana,Postomat,43346,1.0,1113.0,32.4,No
+KS11047,2026-05-11 21:00:00,Home & Garden,Aktobe,Postomat,55772,4.0,1080.0,33.1,No
+KS11048,2026-05-12 00:00:00,Home & Garden,Almaty,Express Courier,77084,2.9,2235.0,32.1,No
+KS11049,2026-05-12 03:00:00,Electronics,Almaty,Postomat,45149,6.3,1746.0,31.1,No
+KS11050,2026-05-12 06:00:00,Cosmetics,Almaty,Postomat,32526,1.5,1179.0,31.4,No
+KS11051,2026-05-12 09:00:00,Auto Parts,Almaty,Postomat,73477,9.1,1795.0,32.6,No
+KS11052,2026-05-12 12:00:00,Electronics,Almaty,Postomat,10695,10.9,1909.0,17.2,No
+KS11053,2026-05-12 15:00:00,Electronics,Almaty,Postomat,44169,9.0,1776.0,31.0,No
+KS11054,2026-05-12 18:00:00,Auto Parts,Astana,Postomat,52947,6.5,1809.0,31.6,No
+KS11055,2026-05-12 21:00:00,Home & Garden,Karaganda,Postomat,52224,10.4,1768.0,31.6,No
+KS11056,2026-05-13 00:00:00,Clothing,Aktobe,Postomat,50865,8.4,1757.0,31.5,No
+KS11057,2026-05-13 03:00:00,Cosmetics,Almaty,Postomat,30553,0.4,1155.0,31.2,No
+KS11058,2026-05-13 06:00:00,Clothing,Astana,Express Courier,65410,4.9,2043.0,31.9,No
+KS11059,2026-05-13 09:00:00,Auto Parts,Astana,Postomat,29816,10.3,1773.0,29.1,No
+KS11060,2026-05-13 12:00:00,Electronics,Astana,Express Courier,60026,4.3,2055.0,31.6,No
+KS11061,2026-05-13 15:00:00,Electronics,Karaganda,Express Courier,55705,0.7,2170.0,31.1,No
+KS11062,2026-05-13 18:00:00,Cosmetics,Aktobe,Express Courier,66922,9.0,2776.0,30.9,No
+KS11063,2026-05-13 21:00:00,Electronics,Karaganda,Postomat,78914,9.7,1916.0,32.6,No
+KS11064,2026-05-14 00:00:00,Electronics,Shymkent,Postomat,6881,2.2,1211.0,17.4,No
+KS11065,2026-05-14 03:00:00,Cosmetics,Astana,Postomat,44567,6.6,1928.0,30.7,No
+KS11066,2026-05-14 06:00:00,Cosmetics,Shymkent,Postomat,52365,2.5,1079.0,32.9,No
+KS11067,2026-05-14 09:00:00,Auto Parts,Almaty,Postomat,84211,8.7,1770.0,32.9,No
+KS11068,2026-05-14 12:00:00,Electronics,Almaty,Postomat,75122,3.5,1247.0,33.3,No
+KS11069,2026-05-14 15:00:00,Electronics,Karaganda,Postomat,30006,4.0,1167.0,31.1,No
+KS11070,2026-05-14 18:00:00,Auto Parts,Aktobe,Express Courier,46198,10.2,2704.0,29.1,No
+KS11071,2026-05-14 21:00:00,Home & Garden,Shymkent,Express Courier,27831,5.9,2716.0,25.2,No
+KS11072,2026-05-15 00:00:00,Home & Garden,Aktobe,Postomat,21459,8.1,1840.0,26.4,No
+KS11073,2026-05-15 03:00:00,Home & Garden,Karaganda,Postomat,37443,5.0,1052.0,32.2,No
+KS11074,2026-05-15 06:00:00,Auto Parts,Almaty,Express Courier,47316,3.8,2025.0,30.7,No
+KS11075,2026-05-15 09:00:00,Electronics,Aktobe,Express Courier,69486,7.6,2706.0,31.1,No
+KS11076,2026-05-15 12:00:00,Auto Parts,Aktobe,Postomat,10877,2.1,1175.0,24.2,No
+KS11077,2026-05-15 15:00:00,Auto Parts,Almaty,Express Courier,44553,4.7,2151.0,30.2,No
+KS11078,2026-05-15 18:00:00,Home & Garden,Shymkent,Postomat,9922,2.7,1102.0,23.9,No
+KS11079,2026-05-15 21:00:00,Clothing,Almaty,Postomat,9686,8.4,1897.0,15.4,No
+KS11080,2026-05-16 00:00:00,Electronics,Aktobe,Express Courier,37766,11.3,2692.0,27.9,No
+KS11081,2026-05-16 03:00:00,Home & Garden,Shymkent,Express Courier,84943,11.9,2837.0,31.7,No
+KS11082,2026-05-16 06:00:00,Clothing,Shymkent,Postomat,37006,5.6,1885.0,29.9,No
+KS11083,2026-05-16 09:00:00,Clothing,Almaty,Postomat,36422,3.3,1098.0,32.0,No
+KS11084,2026-05-16 12:00:00,Cosmetics,Aktobe,Postomat,17205,5.5,1741.0,24.9,No
+KS11085,2026-05-16 15:00:00,Electronics,Karaganda,Postomat,28527,10.2,1903.0,28.3,No
+KS11086,2026-05-16 18:00:00,Clothing,Aktobe,Express Courier,23443,2.7,2240.0,25.4,No
+KS11087,2026-05-16 21:00:00,Home & Garden,Astana,Postomat,21524,11.4,1927.0,26.0,No
+KS11088,2026-05-17 00:00:00,Cosmetics,Karaganda,Postomat,33202,4.3,1243.0,31.3,No
+KS11089,2026-05-17 03:00:00,Electronics,Shymkent,Postomat,70552,11.8,1710.0,32.6,No
+KS11090,2026-05-17 06:00:00,Auto Parts,Karaganda,Express Courier,51142,10.1,2752.0,29.6,No
+KS11091,2026-05-17 09:00:00,Home & Garden,Shymkent,Postomat,66692,9.8,1797.0,32.3,No
+KS11092,2026-05-17 12:00:00,Clothing,Shymkent,Postomat,25855,4.0,1267.0,30.1,No
+KS11093,2026-05-17 15:00:00,Clothing,Karaganda,Express Courier,65372,0.4,2145.0,31.7,No
+KS11094,2026-05-17 18:00:00,Home & Garden,Shymkent,Express Courier,30095,4.8,2084.0,28.1,No
+KS11095,2026-05-17 21:00:00,Clothing,Shymkent,Postomat,43724,3.8,1149.0,32.4,No
+KS11096,2026-05-18 00:00:00,Cosmetics,Astana,Express Courier,54241,0.7,2103.0,31.1,No
+KS11097,2026-05-18 03:00:00,Electronics,Aktobe,Express Courier,57003,6.2,2829.0,30.0,No
+KS11098,2026-05-18 06:00:00,Cosmetics,Aktobe,Express Courier,73379,5.0,2045.0,32.2,No
+KS11099,2026-05-18 09:00:00,Clothing,Astana,Postomat,20972,7.7,1743.0,26.7,No
+KS11100,2026-05-18 12:00:00,Auto Parts,Karaganda,Postomat,27927,7.6,1721.0,28.8,No
+KS11101,2026-05-18 15:00:00,Electronics,Almaty,Postomat,71630,1.7,1230.0,33.3,No
+KS11102,2026-05-18 18:00:00,Electronics,Almaty,Express Courier,57347,11.7,2836.0,30.1,No
+KS11103,2026-05-18 21:00:00,Home & Garden,Almaty,Postomat,74518,2.5,1271.0,33.3,No
+KS11104,2026-05-19 00:00:00,Home & Garden,Astana,Postomat,50283,5.5,1813.0,31.4,No
+KS11105,2026-05-19 03:00:00,Auto Parts,Astana,Postomat,17205,6.0,1934.0,23.8,No
+KS11106,2026-05-19 06:00:00,Electronics,Shymkent,Postomat,17748,9.8,1824.0,24.7,No
+KS11107,2026-05-19 09:00:00,Auto Parts,Almaty,Express Courier,26097,1.5,2123.0,26.9,No
+KS11108,2026-05-19 12:00:00,Home & Garden,Karaganda,Postomat,8092,5.3,1729.0,13.6,No
+KS11109,2026-05-19 15:00:00,Home & Garden,Karaganda,Express Courier,58311,7.7,2657.0,30.4,No
+KS11110,2026-05-19 18:00:00,Electronics,Almaty,Postomat,27692,2.8,1147.0,30.9,No
+KS11111,2026-05-19 21:00:00,Cosmetics,Almaty,Express Courier,28862,7.6,2706.0,25.6,No
+KS11112,2026-05-20 00:00:00,Clothing,Almaty,Express Courier,84507,11.1,2760.0,31.7,No
+KS11113,2026-05-20 03:00:00,Home & Garden,Astana,Express Courier,75469,12.0,2722.0,31.4,No
+KS11114,2026-05-20 06:00:00,Home & Garden,Astana,Postomat,9926,0.7,1164.0,23.3,No
+KS11115,2026-05-20 09:00:00,Cosmetics,Astana,Express Courier,8969,3.1,2019.0,12.5,No
+KS11116,2026-05-20 12:00:00,Cosmetics,Aktobe,Postomat,40733,3.9,1281.0,31.9,No
+KS11117,2026-05-20 15:00:00,Auto Parts,Karaganda,Express Courier,74855,5.0,2024.0,32.3,No
+KS11118,2026-05-20 18:00:00,Auto Parts,Karaganda,Express Courier,46743,3.1,2018.0,30.7,No
+KS11119,2026-05-20 21:00:00,Clothing,Shymkent,Postomat,44876,2.7,1054.0,32.7,No
+KS11120,2026-05-21 00:00:00,Clothing,Astana,Express Courier,25323,11.5,2724.0,24.2,No
+KS11121,2026-05-21 03:00:00,Electronics,Aktobe,Express Courier,21428,11.0,2856.0,21.7,No
+KS11122,2026-05-21 06:00:00,Auto Parts,Aktobe,Postomat,39578,0.8,1177.0,32.0,No
+KS11123,2026-05-21 09:00:00,Home & Garden,Karaganda,Express Courier,69140,4.3,2071.0,32.0,No
+KS11124,2026-05-21 12:00:00,Auto Parts,Astana,Express Courier,11364,5.0,2210.0,15.6,No
+KS11125,2026-05-21 15:00:00,Home & Garden,Shymkent,Express Courier,40349,3.1,2214.0,29.5,No
+KS11126,2026-05-21 18:00:00,Cosmetics,Astana,Postomat,5691,7.7,1854.0,2.4,Yes
+KS11127,2026-05-21 21:00:00,Auto Parts,Almaty,Postomat,71467,7.8,1739.0,32.6,No
+KS11128,2026-05-22 00:00:00,Cosmetics,Astana,Postomat,50896,10.3,1923.0,31.2,No
+KS11129,2026-05-22 03:00:00,Clothing,Almaty,Postomat,62062,9.0,1725.0,32.2,No
+KS11130,2026-05-22 06:00:00,Clothing,Almaty,Express Courier,84762,6.6,2676.0,31.8,No
+KS11131,2026-05-22 09:00:00,Electronics,Shymkent,Express Courier,18861,7.9,2839.0,19.9,No
+KS11132,2026-05-22 12:00:00,Auto Parts,Karaganda,Postomat,68928,3.5,1132.0,33.4,No
+KS11133,2026-05-22 15:00:00,Cosmetics,Astana,Express Courier,46347,7.2,2777.0,29.0,No
+KS11134,2026-05-22 18:00:00,Home & Garden,Almaty,Express Courier,8121,6.0,2827.0,0.2,Yes
+KS11135,2026-05-22 21:00:00,Clothing,Astana,Express Courier,33164,1.9,2169.0,28.5,No
+KS11136,2026-05-23 00:00:00,Clothing,Karaganda,Express Courier,30491,3.1,2156.0,27.9,No
+KS11137,2026-05-23 03:00:00,Home & Garden,Karaganda,Postomat,64222,3.7,1216.0,33.1,No
+KS11138,2026-05-23 06:00:00,Cosmetics,Aktobe,Express Courier,28165,11.1,2837.0,24.9,No
+KS11139,2026-05-23 09:00:00,Cosmetics,Karaganda,Postomat,8748,3.0,1218.0,21.1,No
+KS11140,2026-05-23 12:00:00,Auto Parts,Shymkent,Express Courier,31553,3.7,2032.0,28.6,No
+KS11141,2026-05-23 15:00:00,Auto Parts,Almaty,Postomat,65380,4.6,1260.0,33.1,No
+KS11142,2026-05-23 18:00:00,Electronics,Aktobe,Express Courier,49331,8.1,2878.0,29.2,No
+KS11143,2026-05-23 21:00:00,Clothing,Shymkent,Express Courier,44560,1.7,2210.0,30.0,No
+KS11144,2026-05-24 00:00:00,Auto Parts,Astana,Postomat,58865,11.5,1796.0,31.9,No
+KS11145,2026-05-24 03:00:00,Cosmetics,Almaty,Postomat,51686,10.4,1810.0,31.5,No
+KS11146,2026-05-24 06:00:00,Home & Garden,Karaganda,Express Courier,80910,7.1,2665.0,31.7,No
+KS11147,2026-05-24 09:00:00,Cosmetics,Almaty,Express Courier,9675,8.2,2672.0,7.4,No
+KS11148,2026-05-24 12:00:00,Clothing,Astana,Express Courier,71706,0.5,2134.0,32.0,No
+KS11149,2026-05-24 15:00:00,Cosmetics,Aktobe,Express Courier,82986,4.3,2025.0,32.6,No
+KS11150,2026-05-24 18:00:00,Electronics,Aktobe,Express Courier,81216,9.6,2745.0,31.6,No
+KS11151,2026-05-24 21:00:00,Clothing,Aktobe,Postomat,15068,1.2,1061.0,28.0,No
+KS11152,2026-05-25 00:00:00,Home & Garden,Karaganda,Express Courier,59460,3.6,2071.0,31.5,No
+KS11153,2026-05-25 03:00:00,Electronics,Shymkent,Express Courier,51418,7.1,2782.0,29.6,No
+KS11154,2026-05-25 06:00:00,Clothing,Shymkent,Postomat,31206,3.3,1155.0,31.3,No
+KS11155,2026-05-25 09:00:00,Home & Garden,Almaty,Postomat,5287,11.2,1919.0,-1.3,Yes
+KS11156,2026-05-25 12:00:00,Electronics,Karaganda,Postomat,27337,1.8,1166.0,30.7,No
+KS11157,2026-05-25 15:00:00,Electronics,Aktobe,Express Courier,25666,9.6,2846.0,23.9,No
+KS11158,2026-05-25 18:00:00,Clothing,Aktobe,Express Courier,6161,6.2,2826.0,-10.9,Yes
+KS11159,2026-05-25 21:00:00,Auto Parts,Astana,Postomat,43751,9.1,1725.0,31.1,No
+KS11160,2026-05-26 00:00:00,Electronics,Astana,Express Courier,19758,3.9,2132.0,24.2,No
+KS11161,2026-05-26 03:00:00,Electronics,Aktobe,Express Courier,70780,6.3,2671.0,31.2,No
+KS11162,2026-05-26 06:00:00,Home & Garden,Aktobe,Postomat,8178,10.3,1906.0,11.7,No
+KS11163,2026-05-26 09:00:00,Cosmetics,Karaganda,Postomat,36831,5.8,1712.0,30.4,No
+KS11164,2026-05-26 12:00:00,Clothing,Shymkent,Postomat,7176,4.5,1205.0,18.2,No
+KS11165,2026-05-26 15:00:00,Clothing,Astana,Express Courier,38654,6.6,2810.0,27.7,No
+KS11166,2026-05-26 18:00:00,Auto Parts,Shymkent,Express Courier,31627,8.7,2756.0,26.3,No
+KS11167,2026-05-26 21:00:00,Auto Parts,Karaganda,Postomat,57550,5.5,1722.0,32.0,No
+KS11168,2026-05-27 00:00:00,Clothing,Aktobe,Express Courier,49910,11.3,2746.0,29.5,No
+KS11169,2026-05-27 03:00:00,Auto Parts,Shymkent,Postomat,63251,3.8,1284.0,33.0,No
+KS11170,2026-05-27 06:00:00,Home & Garden,Aktobe,Postomat,40422,5.9,1717.0,30.8,No
+KS11171,2026-05-27 09:00:00,Clothing,Aktobe,Postomat,16984,9.2,1941.0,23.6,No
+KS11172,2026-05-27 12:00:00,Auto Parts,Almaty,Express Courier,66386,8.4,2766.0,30.8,No
+KS11173,2026-05-27 15:00:00,Clothing,Shymkent,Express Courier,12135,10.4,2679.0,12.9,No
+KS11174,2026-05-27 18:00:00,Cosmetics,Shymkent,Postomat,5320,12.0,1725.0,2.6,Yes
+KS11175,2026-05-27 21:00:00,Electronics,Aktobe,Postomat,26684,5.3,1843.0,28.1,No
+KS11176,2026-05-28 00:00:00,Clothing,Karaganda,Postomat,60913,1.6,1254.0,32.9,No
+KS11177,2026-05-28 03:00:00,Electronics,Almaty,Express Courier,26889,0.7,2038.0,27.4,No
+KS11178,2026-05-28 06:00:00,Auto Parts,Aktobe,Express Courier,53899,8.8,2810.0,29.8,No
+KS11179,2026-05-28 09:00:00,Electronics,Astana,Postomat,15770,10.5,1853.0,23.2,No
+KS11180,2026-05-28 12:00:00,Clothing,Astana,Postomat,44321,2.9,1225.0,32.2,No
+KS11181,2026-05-28 15:00:00,Cosmetics,Almaty,Postomat,46777,2.2,1242.0,32.3,No
+KS11182,2026-05-28 18:00:00,Auto Parts,Karaganda,Express Courier,51250,1.0,2240.0,30.6,No
+KS11183,2026-05-28 21:00:00,Clothing,Aktobe,Postomat,78034,9.9,1865.0,32.6,No
+KS11184,2026-05-29 00:00:00,Auto Parts,Shymkent,Postomat,45130,3.9,1179.0,32.4,No
+KS11185,2026-05-29 03:00:00,Home & Garden,Almaty,Postomat,54346,5.0,1162.0,32.9,No
+KS11186,2026-05-29 06:00:00,Electronics,Karaganda,Express Courier,7537,6.2,2783.0,-1.9,Yes
+KS11187,2026-05-29 09:00:00,Home & Garden,Shymkent,Express Courier,20216,10.1,2695.0,21.7,No
+KS11188,2026-05-29 12:00:00,Clothing,Astana,Postomat,8009,7.9,1749.0,13.2,No
+KS11189,2026-05-29 15:00:00,Cosmetics,Astana,Express Courier,34327,7.5,2815.0,26.8,No
+KS11190,2026-05-29 18:00:00,Auto Parts,Shymkent,Postomat,19209,2.4,1155.0,29.0,No
+KS11191,2026-05-29 21:00:00,Electronics,Almaty,Postomat,53443,6.3,1915.0,31.4,No
+KS11192,2026-05-30 00:00:00,Auto Parts,Astana,Express Courier,20029,8.7,2795.0,21.0,No
+KS11193,2026-05-30 03:00:00,Clothing,Aktobe,Postomat,72613,11.7,1854.0,32.4,No
+KS11194,2026-05-30 06:00:00,Auto Parts,Shymkent,Express Courier,84443,2.7,2168.0,32.4,No
+KS11195,2026-05-30 09:00:00,Electronics,Shymkent,Postomat,61997,0.4,1121.0,33.2,No
+KS11196,2026-05-30 12:00:00,Clothing,Astana,Postomat,67559,1.2,1269.0,33.1,No
+KS11197,2026-05-30 15:00:00,Auto Parts,Almaty,Express Courier,69892,4.7,2073.0,32.0,No
+KS11198,2026-05-30 18:00:00,Cosmetics,Aktobe,Express Courier,75409,9.9,2666.0,31.5,No
+KS11199,2026-05-30 21:00:00,Clothing,Almaty,Express Courier,13635,0.4,2246.0,18.5,No
+KS10000,2026-01-01 00:00:00,Cosmetics,Astana,Postomat,24874,11.3,1923.0,27.3,No
+KS10001,2026-01-01 03:00:00,Auto Parts,Karaganda,Express Courier,55931,4.1,2041.0,31.4,No
+KS10002,2026-01-01 06:00:00,Home & Garden,Shymkent,Postomat,12674,8.0,1740.0,21.3,No
+KS10003,2026-01-01 09:00:00,Auto Parts,Almaty,Express Courier,55516,7.9,2854.0,29.9,No
+KS10004,2026-01-01 12:00:00,Auto Parts,Shymkent,Postomat,65686,3.2,1280.0,33.1,No
+KS10005,2026-01-01 15:00:00,Clothing,Aktobe,Express Courier,74212,7.9,2846.0,31.2,No
+KS10006,2026-01-01 18:00:00,Home & Garden,Karaganda,Postomat,7426,2.8,1171.0,19.2,No
+KS10007,2026-01-01 21:00:00,Home & Garden,Shymkent,Express Courier,73498,1.7,2137.0,32.1,No
+KS10008,2026-01-02 00:00:00,Home & Garden,Astana,Express Courier,34943,8.5,2659.0,27.4,No
+KS10009,2026-01-02 03:00:00,Auto Parts,Aktobe,Express Courier,71395,1.6,2101.0,32.1,No
+KS10010,2026-01-02 06:00:00,Cosmetics,Aktobe,Express Courier,49816,12.0,2868.0,29.2,No
+KS10011,2026-01-02 09:00:00,Home & Garden,Shymkent,Postomat,9138,2.4,1237.0,21.5,No
+KS10012,2026-01-02 12:00:00,Auto Parts,Shymkent,Postomat,80945,7.3,1827.0,32.7,No
+KS10013,2026-01-02 15:00:00,Clothing,Karaganda,Express Courier,9017,5.1,2828.0,3.6,Yes
+KS10014,2026-01-02 18:00:00,Cosmetics,Almaty,Express Courier,15451,1.8,2148.0,21.1,No
